@@ -2,11 +2,13 @@
 title: Uniswap
 description: 
 published: true
-date: 2021-03-12T21:32:21.522Z
+date: 2021-03-13T01:20:49.647Z
 tags: ethereum, uniswap
 editor: markdown
 dateCreated: 2021-03-12T15:50:53.437Z
 ---
+
+![Uniswap](https://txstreet.com/static/img/singles/house_logos/uniswap.png)
 
 ## Summary
 
