@@ -1,14 +1,12 @@
 ---
 title: Live Stats
-description: Describing how the live stats on TxStreet are calculated.
+description: Descriptions of live how live statistics are calculated on TxStreet.
 published: true
-date: 2021-03-14T14:59:01.153Z
+date: 2021-03-14T14:59:37.107Z
 tags: ethereum
 editor: markdown
 dateCreated: 2021-03-14T14:59:01.153Z
 ---
-
-Descriptions of live how live statistics are calculated on TxStreet.
 
 ## Broadcasted Tx/Sec
 
