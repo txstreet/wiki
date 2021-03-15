@@ -2,7 +2,7 @@
 title: AnyHedge
 description: 
 published: true
-date: 2021-03-15T23:54:38.676Z
+date: 2021-03-15T23:59:41.488Z
 tags: bitcoin-cash, anyhedge
 editor: markdown
 dateCreated: 2021-03-15T23:54:38.676Z
