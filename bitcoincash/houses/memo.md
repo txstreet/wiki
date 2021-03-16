@@ -1,10 +1,10 @@
 ---
-title: memo                                          
+title: Memo                                          
 description:                                          
 published: true                                       
 date: 2021-03-15T00:44:40.998Z                        
-tags: bch, bitcoin cash, memo                                 
-editor: markdown.                                    
+tags: bitcoin cash, memo                                 
+editor: markdown                                    
 dateCreated: 2021-03-15T00:44:40.998Z 
 ---
 
