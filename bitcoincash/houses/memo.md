@@ -3,7 +3,7 @@ title: Memo
 description:                                          
 published: true                                       
 date: 2021-03-15T00:44:40.998Z                        
-tags: bitcoin cash, memo                                 
+tags: bitcoin-cash, memo                                 
 editor: markdown                                    
 dateCreated: 2021-03-15T00:44:40.998Z 
 ---
