@@ -1,10 +1,10 @@
 ---
-title: simple ledger protocol                                          
+title: Simple Ledger Protocol                                          
 description:                                          
 published: true                                       
 date: 2021-03-15T00:25:00.998Z                        
-tags: bch, bitcoin cash, simple ledger protocol, slp                                  
-editor: markdown.                                    
+tags: bitcoin cash, simple ledger protocol, slp                                  
+editor: markdown                                   
 dateCreated: 2021-03-15T00:25:00.998Z 
 ---
 
