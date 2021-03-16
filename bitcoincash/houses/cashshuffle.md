@@ -1,10 +1,10 @@
 ---
-title: cash shuffle                                          
+title: Cash Shuffle                                          
 description:                                          
 published: true                                       
-date: 2021-03-15T01:00:35.998Z                        
+date: 2021-03-15T01:23:26.998Z                        
 tags: bch, bitcoin cash, cash shuffle                                 
-editor: markdown.                                    
+editor: markdown                                    
 dateCreated: 2021-03-15T01:00:35.998Z 
 ---
 
