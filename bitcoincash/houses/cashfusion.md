@@ -3,7 +3,7 @@ title: Cash Fusion
 description:                                          
 published: true                                       
 date: 2021-03-15T01:00:35.998Z                        
-tags: bitcoin-cash, cash fusion                                
+tags: bitcoin-cash, cash-fusion                                
 editor: markdown                                   
 dateCreated: 2021-03-15T01:00:35.998Z 
 ---
