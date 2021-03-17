@@ -1,0 +1,27 @@
+{
+  "name": "1inch",
+  "title": "1Inch Exchange",
+  "tracked": true,
+  "colors": ["9832ca", false],
+  "dappReviewIds": [11728],
+  "contracts": [
+    { "address": "0x111111125434b319222cdbf8c261674adb56f3ae" },
+    { "address": "0xee7f212545b3c388f8fd176f83bdff85f3dcea7d" },
+    { "address": "0x11111254369792b2ca5d084ab5eea397ca8fa48b" },
+    { "address": "0xc586bef4a0992c495cf22e1aeee4e446cecdee0e" },
+    { "address": "0x000005edbbc1f258302add96b5e20d3442e5dd89" },
+    { "address": "0xB2137a03446065C412888FD8c24358f65E96bce7" },
+    { "address": "0xee6f35e91bc558a2bd360eff094026e017327a16" },
+    { "address": "0x111112549cfedf7822eb11fbd8fd485d8a10f93f" },
+    { "address": "0xb1ec61949e5db1d681316c0e2f9132afb62fc32f" },
+    { "address": "0xE4C577bdEc9cE0F6c54f2f82AED5b1913B71AE2f" },
+    { "address": "0x00000000016697Fa9A9C8e2889E28D3D9816A078" },
+    { "address": "0x04e264a8ee30ec8298bfeda1a6bf3b78053115f4" },
+    { "address": "0x0000000006adbd7c01bc0738cdbfc3932600ad63" },
+    { "address": "0x0000000f8ef4be2b7aed6724e893c1b674b9682d" },
+    { "address": "0x0000000053d411becdb4a82d8603edc6d8b8b3bc" },
+    { "address": "0x52dd74d511753b464867d831f78dfcbf05d255d7" },
+    { "address": "0xe00b75a94b444de64b308aa3d7a08b99d1ea1fb4" },
+    { "address": "0x111111254b08ceeee8ad6ca827de9952d2a46781" }
+  ]
+}

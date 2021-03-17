@@ -1,0 +1,24 @@
+{
+  "name": "compound",
+  "title": "Compound",
+  "tracked": true,
+  "colors": ["1f2c3c", "19d297"],
+  "dappReviewIds": [1221],
+  "contracts": [
+    { "address": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5" },
+    { "address": "0x39aa39c021dfbae8fac545936693ac917d5e7563" },
+    { "address": "0x3FDA67f7583380E67ef93072294a7fAc882FD7E7" },
+    { "address": "0xc64c4cba055efa614ce01f4bad8a9f519c4f8fab" },
+    { "address": "0xa1046abfc2598f48c44fb320d281d3f3c0733c9a" },
+    { "address": "0xf5dce57282a584d2746faf1593d3121fcac444dc" },
+    { "address": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643" },
+    { "address": "0xc11b1268c1a384e55c48c2391d8d480264a3a7f4" },
+    { "address": "0x158079ee67fce2f58472a96584a73c7ab9ac95c1" },
+    { "address": "0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e" },
+    { "address": "0x02557a5e05defeffd4cae6d83ea3d173b272c904" },
+    { "address": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9" },
+    { "address": "0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" },
+    { "address": "0xbae04cbf96391086dc643e842b517734e214d698" },
+    { "address": "0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407" }
+  ]
+}

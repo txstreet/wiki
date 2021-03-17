@@ -1,0 +1,16 @@
+{
+  "name": "nest",
+  "title": "NEST",
+  "tracked": true,
+  "colors": ["231815", "lighten"],
+  "dappReviewIds": [11742],
+  "contracts": [
+    { "address": "0x3bf046c114385357838D9cAE9509C6fBBfE306d2" },
+    { "address": "0xaA7A74a46EFE0C58FBfDf5c43Da30216a8aa84eC" },
+    { "address": "0x5F26AaE41dcCd5061BBAE645B4acf34ba8332A14" },
+    { "address": "0x243f207F9358cf67243aDe4A8fF3C5235aa7b8f6" },
+    { "address": "0x105ee568DaB631b8ff84f328Bc48e95387dfFB4f" },
+    { "address": "0xCA208DCfbEF22941D176858A640190C2222C8c8F" },
+    { "address": "0xf1A7201749fA81463799383D7D0565B6bfECE757" }
+  ]
+}

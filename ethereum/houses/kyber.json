@@ -1,0 +1,17 @@
+{
+  "name": "kyber",
+  "title": "Kyber Network",
+  "tracked": true,
+  "colors": ["d4d5d7", "42e5b3"],
+  "dappReviewIds": [266],
+  "contracts": [
+    { "address": "0x9aab3f75489902f3a48495025729a0af77d4b11e" },
+    { "address": "0x818e6fecd516ecc3849daf6845e3ec868087b755" },
+    { "address": "0x0559324025d6eF4A715c2e22562b90210FcfE25A" },
+    { "address": "0xFB80Bfa19CAE9E00F28B0f7e1023109deeb10483" },
+    { "address": "0xbAf075545c3A56ecbaF219E4A1B69Bc2B94b0B75" },
+    { "address": "0x63825c174ab367968ec60f061753d3bbd36a0d8f" },
+    { "address": "0x65bF64Ff5f51272f729BDcD7AcFB00677ced86Cd" },
+    { "address": "0x964F35fAe36d75B1e72770e244F6595B68508CF5" }
+  ]
+}

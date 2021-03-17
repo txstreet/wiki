@@ -1,0 +1,14 @@
+{
+  "name": "cryptokitties",
+  "title": "CryptoKitties",
+  "tracked": true,
+  "colors": ["ffd9ff", false],
+  "dappReviewIds": [3],
+  "contracts": [
+    { "address": "0xc7af99fe5513eb6710e6d5f44f9989da40f27f26" },
+    { "address": "0x06012c8cf97bead5deae237070f9587f8e7a266d" },
+    { "address": "0xb1690c08e213a35ed9bab7b318de14420fb57d8c" },
+    { "address": "0x57831A0C76Ba6b4FDcbadd6cb48cB26e8fc15e93" },
+    { "address": "0x09fE5f0236F0Ea5D930197DCE254d77B04128075" }
+  ]
+}

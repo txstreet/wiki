@@ -1,0 +1,11 @@
+{
+  "name": "sushi",
+  "title": "Sushi",
+  "tracked": true,
+  "colors": ["0d0e21", false],
+  "dappReviewIds": [13690],
+  "contracts": [
+    { "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2" },
+    { "address": "0xc2edad668740f1aa35e4d8f227fb8e17dca888cd" }
+  ]
+}

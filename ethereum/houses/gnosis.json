@@ -1,0 +1,8 @@
+{
+  "name": "gnosis",
+  "title": "Gnosis",
+  "tracked": true,
+  "colors": ["18394c", "lighten"],
+  "dappReviewIds": [12910],
+  "contracts": [{ "address": "0x6F400810b62df8E13fded51bE75fF5393eaa841F" }]
+}
