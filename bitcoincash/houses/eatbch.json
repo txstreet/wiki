@@ -1,0 +1,20 @@
+{
+  "name": "eatbch",
+  "title": "eatBCH",
+  "tracked": true,
+  "colors": ["577d2f", "lighten"],
+  "eatbchAddresses": [
+    {
+      "name": "General",
+      "address": "38ty1qB68gHsiyZ8k3RPeCJ1wYQPrUCPPr"
+    },
+    {
+      "name": "Venezuela",
+      "address": "3ACpVRgivG5SLQvrgD4NrHYbfCYMRB6MgU"
+    },
+    {
+      "name": "South Sudan",
+      "address": "1MSXGied5d21axtKN5bsuxowbQCGycPe26"
+    }
+  ]
+}
