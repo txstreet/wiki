@@ -2,7 +2,7 @@
 title: Live Stats
 description: Descriptions of live how live statistics are calculated on TxStreet.
 published: true
-date: 2021-03-14T14:59:37.107Z
+date: 2021-03-18T22:43:21.485Z
 tags: ethereum
 editor: markdown
 dateCreated: 2021-03-14T14:59:01.153Z
@@ -47,6 +47,10 @@ Block Gas Limit is the maximum amount of gas that a block is allowed to contain,
 ## Median Block Gas
 
 Median Block Gas measures the median gas used by a block (sum of the gas used by all transactions in that block) over the last hour.
+
+## Median Block Size
+
+Median Block Size measures the median data used by a block (in megabytes) over the last hour.
 
 ## Median Tx Gas Used/Limit
 
