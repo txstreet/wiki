@@ -1,9 +1,9 @@
 ---
 title: Block Size
 description: 
-published: false
-date: 2021-03-12T14:43:22.079Z
-tags: ethereum
+published: true
+date: 2021-03-18T19:30:26.982Z
+tags: ethereum, blockchain
 editor: markdown
 dateCreated: 2021-03-11T22:49:20.087Z
 ---
