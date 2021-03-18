@@ -2,7 +2,7 @@
 title: Live Stats
 description: Descriptions of live how live statistics are calculated on TxStreet.
 published: true
-date: 2021-03-18T22:43:21.485Z
+date: 2021-03-18T22:49:32.433Z
 tags: ethereum
 editor: markdown
 dateCreated: 2021-03-14T14:59:01.153Z
@@ -16,9 +16,9 @@ Broadcasted transactions per second measures the number of new and unique transa
 
 Confirmed transactions per second measures rate of confirmed transactions per second over the past hour. If there was no confirmed block in the past hour, the timespan is increased past one hour to the last block's timestamp.
 
-## Txpool Count
+## Mempool Count
 
-Txpool Count measures the total number of "pending" and "queued" transactions in the txpool on the TxStreet Ethereum node.
+Mempool Count measures the total number of "pending" and "queued" transactions in the mempool on the TxStreet Ethereum node.
 
 ## Median Contract Fee
 
