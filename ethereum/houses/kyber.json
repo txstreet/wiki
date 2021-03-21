@@ -5,6 +5,7 @@
   "colors": ["d4d5d7", "42e5b3"],
   "dappReviewIds": [266],
   "stateOfTheDappsIds": ["kybernetwork"],
+  "dappRadarIds": ["/exchanges/kyber"],
   "contracts": [
     { "address": "0x9aab3f75489902f3a48495025729a0af77d4b11e" },
     { "address": "0x818e6fecd516ecc3849daf6845e3ec868087b755" },

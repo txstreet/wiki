@@ -5,10 +5,12 @@
   "colors": ["3291e9", "lighten"],
   "dappReviewIds": [15],
   "stateOfTheDappsIds": ["opensea"],
+  "dappRadarIds": ["/marketplaces/opensea"],
   "contracts": [
     { "address": "0x1f52b87c3503e537853e160adbf7e330ea0be7c4" },
     { "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b" },
     { "address": "0x23b45c658737b12f1748ce56e9b6784b5e9f3ff8" },
-    { "address": "0x78997e9e939daffe7eb9ed114fbf7128d0cfcd39" }
+    { "address": "0x78997e9e939daffe7eb9ed114fbf7128d0cfcd39" },
+    { "address": "0xe1fb91513f0b2b8627027b2702e1828f73ad7bc5" }
   ]
 }

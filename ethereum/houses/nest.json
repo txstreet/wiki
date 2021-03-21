@@ -5,6 +5,7 @@
   "colors": ["231815", "lighten"],
   "dappReviewIds": [11742],
   "stateOfTheDappsIds": ["nest"],
+  "dappRadarIds": ["/defi/nest"],
   "contracts": [
     { "address": "0x3bf046c114385357838D9cAE9509C6fBBfE306d2" },
     { "address": "0xaA7A74a46EFE0C58FBfDf5c43Da30216a8aa84eC" },
@@ -26,6 +27,9 @@
     { "address": "0xC028E81e11F374f7c1A3bE6b8D2a815fa3E96E6e" },
     { "address": "0x101D8b63A081dFfF2B1364864345b7F071b052ac" },
     { "address": "0xb086F99E36c2c0ef6c051EE9E4d638717BBc6cbC" },
-    { "address": "0x472c31697633daCd24C4674b4571d4A393d54870" }
+    { "address": "0x472c31697633daCd24C4674b4571d4A393d54870" },
+    { "address": "0x04abeda201850ac0124161f037efd70c74ddc74c" },
+    { "address": "0x005dc119E435D4C46D464A05330d732dbabc8dAd" },
+    { "address": "0x9b0B514Bb1e84E5B40E88a934fF13e7d1cfFF71F" }
   ]
 }

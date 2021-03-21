@@ -5,6 +5,7 @@
   "colors": ["18394c", "lighten"],
   "dappReviewIds": [12910],
   "stateOfTheDappsIds": ["gnosis"],
+  "dappRadarIds": ["/exchanges/gnosis-protocol"],
   "contracts": [
     { "address": "0x6F400810b62df8E13fded51bE75fF5393eaa841F" },
     { "address": "0x5aae5c59d642e5fd45b427df6ed478b49d55fefd" },

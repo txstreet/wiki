@@ -3,7 +3,6 @@
   "title": "Tether",
   "tracked": true,
   "colors": ["28a079", "lighten"],
-  "dappReviewIds": [],
   "stateOfTheDappsIds": ["tether"],
   "contracts": [{ "address": "0xdac17f958d2ee523a2206206994597c13d831ec7" }]
 }

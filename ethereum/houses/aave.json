@@ -5,6 +5,7 @@
   "colors": ["46a7bf", "lighten"],
   "dappReviewIds": [12796],
   "stateOfTheDappsIds": ["aave-protocol"],
+  "dappRadarIds": ["/defi/aave", "/defi/aave-v2"],
   "contracts": [
     { "address": "0x4da9b813057d04baef4e5800e36083717b4a0341" },
     { "address": "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d" },
@@ -24,6 +25,15 @@
     { "address": "0x398eC7346DcD622eDc5ae82352F02bE94C62d119" },
     { "address": "0x9ba00d6856a4edf4665bca2c2309936572473b7e" },
     { "address": "0xfc4b8ed459e00e5400be803a9bb3954234fd50e3" },
-    { "address": "0x7deb5e830be29f91e298ba5ff1356bb7f8146998" }
+    { "address": "0x7deb5e830be29f91e298ba5ff1356bb7f8146998" },
+    { "address": "0xDcD33426BA191383f1c9B431A342498fdac73488" },
+    { "address": "0x057835Ad21a177dbdd3090bB1CAE03EaCF78Fc6d" },
+    { "address": "0xB9062896ec3A615a4e4444DF183F0531a77218AE" },
+    { "address": "0xA50ba011c48153De246E5192C8f9258A2ba79Ca9" },
+    { "address": "0x8A32f49FFbA88aba6EFF96F45D8BD1D4b3f35c7D" },
+    { "address": "0x311Bb771e4F8952E6Da169b425E7e92d6Ac45756" },
+    { "address": "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9" },
+    { "address": "0x52D306e36E3B6B02c153d0266ff0f85d18BCD413" },
+    { "address": "0xB53C1a33016B2DC2fF3653530bfF1848a515c8c5" }
   ]
 }

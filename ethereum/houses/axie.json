@@ -5,6 +5,7 @@
   "colors": ["007dc1", false],
   "dappReviewIds": [517],
   "stateOfTheDappsIds": ["axie-infinity"],
+  "dappRadarIds": ["/games/axie-infinity", "/marketplaces/axie-marketplace"],
   "contracts": [
     { "address": "0x2299a91cc0bffd8c7f71349da8ab03527b79724f" },
     { "address": "0xf4985070ce32b6b1994329df787d1acc9a2dd9e2" },

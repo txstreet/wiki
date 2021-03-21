@@ -5,6 +5,7 @@
   "colors": ["359c82", "lighten"],
   "dappReviewIds": [10707, 11648],
   "stateOfTheDappsIds": ["makerdao"],
+  "dappRadarIds": ["/defi/makerdao"],
   "contracts": [
     { "address": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359" },
     { "address": "0x9b0ccf7c8994e19f39b2b4cf708e0a7df65fa8a3" },
@@ -56,6 +57,8 @@
     { "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2" },
     { "address": "0x14fbca95be7e99c15cc2996c6c9d841e54b79425" },
     { "address": "0x39755357759cE0d7f32dC8dC45414CCa409AE24e" },
-    { "address": "0x794e6e91555438aFc3ccF1c5076A74F42133d08D" }
+    { "address": "0x794e6e91555438aFc3ccF1c5076A74F42133d08D" },
+    { "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef" },
+    { "address": "0xbf72da2bd84c5170618fbe5914b0eca9638d5eb5" }
   ]
 }

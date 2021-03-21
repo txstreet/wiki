@@ -5,8 +5,11 @@
   "colors": ["37cfa5", "044a69"],
   "dappReviewIds": [165],
   "stateOfTheDappsIds": ["idex"],
+  "dappRadarIds": ["/exchanges/idex"],
   "contracts": [
     { "address": "0x2a0c0dbecc7e4d658f48e01e3fa353f44050c208" },
-    { "address": "0xcc13fc627effd6e35d2d2706ea3c4d7396c610ea" }
+    { "address": "0xcc13fc627effd6e35d2d2706ea3c4d7396c610ea" },
+    { "address": "0xa36972e347e538e6c7afb9f44fb10dda7bba9ba2" },
+    { "address": "0xe5c405c5578d84c5231d3a9a29ef4374423fa0c2" }
   ]
 }

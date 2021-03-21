@@ -5,6 +5,7 @@
   "colors": ["473d77", "937cf8"],
   "dappReviewIds": [10102],
   "stateOfTheDappsIds": ["synthetix"],
+  "dappRadarIds": ["/defi/synthetix"],
   "contracts": [
     { "address": "0xd4fb1706ae549febec06bb7175b08010dd1b0c2e" },
     { "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f" },
@@ -93,6 +94,8 @@
     { "address": "0x9073ee83b6ce96c444547ddcaf777b9352163581" },
     { "address": "0x6568d9e750fc44af00f857885dfb8281c00529c4" },
     { "address": "0x4dfacfb15514c21c991ff75bc7bf6fb1f98361ed" },
-    { "address": "0x013ae307648f529aa72c5767a334ddd37aab43c3" }
+    { "address": "0x013ae307648f529aa72c5767a334ddd37aab43c3" },
+    { "address": "0xc4e4c442653fdc78a71401684fd6cf9d67b3b642" },
+    { "address": "0xc4e4c442653fdc78a71401684fd6cf9d67b3b641" }
   ]
 }
