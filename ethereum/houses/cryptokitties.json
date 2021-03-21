@@ -4,6 +4,7 @@
   "tracked": true,
   "colors": ["ffd9ff", false],
   "dappReviewIds": [3],
+  "stateOfTheDappsIds": ["cryptokitties"],
   "contracts": [
     { "address": "0xc7af99fe5513eb6710e6d5f44f9989da40f27f26" },
     { "address": "0x06012c8cf97bead5deae237070f9587f8e7a266d" },

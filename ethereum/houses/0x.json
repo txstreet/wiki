@@ -4,6 +4,7 @@
   "tracked": true,
   "colors": ["303030", "13ad99"],
   "dappReviewIds": [273],
+  "stateOfTheDappsIds": ["0x"],
   "contracts": [
     { "address": "0x61935cbdd02287b511119ddb11aeb42f1593b7ef" },
     { "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff" },

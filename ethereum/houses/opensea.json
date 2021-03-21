@@ -4,6 +4,7 @@
   "tracked": true,
   "colors": ["3291e9", "lighten"],
   "dappReviewIds": [15],
+  "stateOfTheDappsIds": ["opensea"],
   "contracts": [
     { "address": "0x1f52b87c3503e537853e160adbf7e330ea0be7c4" },
     { "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b" },

@@ -4,5 +4,10 @@
   "tracked": true,
   "colors": ["18394c", "lighten"],
   "dappReviewIds": [12910],
-  "contracts": [{ "address": "0x6F400810b62df8E13fded51bE75fF5393eaa841F" }]
+  "stateOfTheDappsIds": ["gnosis"],
+  "contracts": [
+    { "address": "0x6F400810b62df8E13fded51bE75fF5393eaa841F" },
+    { "address": "0x5aae5c59d642e5fd45b427df6ed478b49d55fefd" },
+    { "address": "0x6810e776880c02933d47db1b9fc05908e5386b96" }
+  ]
 }

@@ -4,6 +4,7 @@
   "tracked": true,
   "colors": ["007dc1", false],
   "dappReviewIds": [517],
+  "stateOfTheDappsIds": ["axie-infinity"],
   "contracts": [
     { "address": "0x2299a91cc0bffd8c7f71349da8ab03527b79724f" },
     { "address": "0xf4985070ce32b6b1994329df787d1acc9a2dd9e2" },
@@ -33,6 +34,10 @@
     { "address": "0xf429b7270f7078d5561789c15d301692e32b1e48" },
     { "address": "0xf78dbc37a67018db6f823ec5090d7eedd5bab6fd" },
     { "address": "0x73d7b530d181ef957525c6fbe2ab8f28bf4f81cf" },
-    { "address": "0x66536a95cc83ee672da58b6d3e57f7582184d5df" }
+    { "address": "0x66536a95cc83ee672da58b6d3e57f7582184d5df" },
+    { "address": "0xf4158e282F2317597E31c028978C7fb7275d6Fb4" },
+    { "address": "0x47340deb65810a1f0d0b1eae7489d1218c1c150f" },
+    { "address": "0xeb85a7b3fed933ec3b4599f1b4f8f3f838d0bedf" },
+    { "address": "0xEC0A0915A7c3443862B678B0d4721C7aB133FDCf" }
   ]
 }

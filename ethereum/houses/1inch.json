@@ -4,6 +4,7 @@
   "tracked": true,
   "colors": ["9832ca", false],
   "dappReviewIds": [11728],
+  "stateOfTheDappsIds": ["1inch-exchange"],
   "contracts": [
     { "address": "0x111111125434b319222cdbf8c261674adb56f3ae" },
     { "address": "0xee7f212545b3c388f8fd176f83bdff85f3dcea7d" },
