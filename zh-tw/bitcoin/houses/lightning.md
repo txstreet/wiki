@@ -10,11 +10,11 @@ dateCreated: 2021-03-15T02:04:42.998Z
 
 ![LightningNetwork](https://txstreet.com/static/img/singles/house_logos/lightning.png)
 
-## Summary
+## Summary{#summary}
 
 The [Lightning Network](https://lightning.network/) is a decentralized network using smart contract functionality in the blockchain to enable instant payments across a network of participants.
 
 
-## Config
+## Config{#config}
 
 Below is a json config file used by TxStreet, including a list of contracts. [lightning.json](/bitcoin/houses/lightning.json)
