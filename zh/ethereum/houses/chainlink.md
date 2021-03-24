@@ -16,4 +16,4 @@ The <a href="https://chain.link/" target="_blank">Chainlink</a> network provides
 
 ## Config
 
-Below is a json config file used by TxStreet, including a list of contracts. [chainlink.json](/ethereum/houses/chainlink.json)
+Below is a json config file used by TxStreet, including a list of contracts. [chainlink.json](/ethereum/houses/chainlink.json) [chainlink.json](/ethereum/houses/chainlink.json)
