@@ -14,7 +14,7 @@ Knowing the difference between coins and tokens is essential in understanding wh
 
 ## Altcoins{#altcoins}
 
-Altcoins, or, alternative coins, typically refer to any coin that is not Bitcoin and has its own blockchain. Each altcoin has its own purpose or goal; Some try to compete with Bitcoin, some work to help improve the cryptocurrency space in parts or as a whole, and some are meme coins, like dogecoin, with no intrinsic value but a large fanbase. Regardless, a lot of these altcoins were built with the same ideologies in mind as Bitcoin, and certainly not all of them will succeed.
+Altcoins, or, alternative coins, typically refer to any coin that is not Bitcoin and has its own blockchain. Regardless, a lot of these altcoins were built with the same ideologies in mind as Bitcoin, and certainly not all of them will succeed. Each altcoin has its own purpose or goal; Some try to compete with Bitcoin, some work to help improve the cryptocurrency space in parts or as a whole, and some are meme coins, like dogecoin, with no intrinsic value but a large fanbase.
 
 ## Tokens{#tokens}
 
