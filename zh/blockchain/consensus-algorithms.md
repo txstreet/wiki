@@ -2,21 +2,21 @@
 title: Consensus Algorithms
 description:
 published: true
-date: 2021-03-21T12:48:29.684Z
+date: 2021-03-24T04:45:06.073Z
 tags: proof-of-work, proof-of-stake
 editor: markdown
 dateCreated: 2021-03-21T12:43:16.736Z
 ---
 
-## Summary
+## Summary{#summary}
 
 Consensus algorithms are mechanisms in computer science that allow the users or nodes of a distributed network to coordinate and establish agreement upon a single truth so that everyone's copy of the ledger can update in real-time, making them essential for any blockchain. Proof-of-Work uses miners that solve cryptographic puzzles to be rewarded, Proof-of-Stake uses validators that lock up a coin to propose and vote on blocks in exchange for that same coin, Proof-of-Elapsed Time forces nodes to sleep for a random duration of time before picking blocks and being rewarded, and Proof-of-Authority uses trust and identity, with approved validator accounts. Regardless of the type of consensus algorithm, it is always feared that a 51% attack could take place, and sometimes they do on smaller blockchains, but as time goes on, these algorithms should continue to improve, offering solutions to those acting maliciously on networks.
 
-## Types of Consensus Algorithms
+## Types of Consensus Algorithms{#consensus-algorithms}
 
 ### Proof of Work
 
-There are many types of consensus algorithms used in blockchain technology, but the first was **Proof-of-Work**, or PoW, where validators (miners) use electricity and special hashing hardware to run data through a hash function to create a hash and solve cryptographic puzzles in hopes that the network will verify their data. If the miner has produced a valid hash that meets the conditions outlined by the PoW protocol, a reward will be issued, if rejected, no reward will be issued and the money spent on operating costs will be a loss. The issue with PoW is the massive amount of energy consumption caused by it, and although the blockchains causing this issue are looking for fixes to implement, the energy consumption issue grows larger every day. As of March 2021, Bitcoin's energy consumption was estimated to be around 130TWh (Terawatt hours per year), more than many countries. Track current estimates of Bitcoin's energy consumption [here](https://cbeci.org/). **Proof-of-Burn**, or PoB, is a spinoff of PoW that addresses the high energy usage issues by enabling miners to burn tokens by sending them to a specific address, granting them access to write new blocks in proportion to the amount of coins burnt. By doing so, miners receive a reward in the native currency of the blockchain.
+There are many types of consensus algorithms used in blockchain technology, but the first was **Proof-of-Work**, or PoW, where validators (miners) use electricity and special hashing hardware to run data through a hash function to create a hash and solve cryptographic puzzles in hopes that the network will verify their data. If the miner has produced a valid hash that meets the conditions outlined by the PoW protocol, a reward will be issued, if rejected, no reward will be issued, and the money spent on operating costs will be a loss. The issue with PoW is the massive amount of energy consumption caused by it, and although the blockchains causing this issue are looking for fixes to implement, the energy consumption issue grows larger every day. As of March 2021, Bitcoin's energy consumption was estimated to be around 130TWh (Terawatt hours per year), more than many countries. Track current estimates of Bitcoin's energy consumption [here](https://cbeci.org/). **Proof-of-Burn**, or PoB, is a spinoff of PoW that addresses the high energy usage issues by enabling miners to burn tokens by sending them to a specific address, granting them access to write new blocks in proportion to the number of coins burnt. By doing so, miners receive a reward in the native currency of the blockchain.
 
 ### Proof of Stake
 
@@ -38,6 +38,6 @@ Another twist on the PoS algorithm is **Delegated Proof-of-Stake**, or DPoS, whe
 
 **Proof-of-Authority**, or PoA, is an algorithm focused on the reputation of the validators and a high level of trust in the network. Validators wait time, just the same as PoET, however instead of staking resources validators stake their identities and reputations, and are pre-approved by the network, as PoA is meant for private blockchains. This stops validators from committing any malicious activity, as their identities are attached. They run software that allows them to put transactions in blocks autonomously, but it does require an uncompromised node, so validators in a PoA network should be very reliable.
 
-## 51% Attack
+## 51% Attack{#51-attack}
 
 A 51% attack refers to a group of people within a network coming together to pool more than 50% of the network's computing power with the intent of malicious activity. When this happens, the group with 51% power is able to prevent new transactions from going through, halt payments between any users, and reverse transactions, opening up the door for them to double-spend coins. Double spending is an issue that is specific to digital currencies, because physical currencies cannot be easy manipulated or replicated, while digital currencies can be in the circumstance of a network failure, more than likely spurred by a 51% attack.
