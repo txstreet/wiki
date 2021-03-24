@@ -10,8 +10,8 @@ dateCreated: 2021-03-12T15:45:20.827Z
 
 # Home
 Coming Soon
-## About TxStreet.com{#about}
-TxStreet.com is a live cryptocurrency transaction visualizer featuring Bitcoin, Ethereum and Bitcoin Cash. When a new transaction is broadcasted to a cryptocurrency, a person appears and attempts to board a bus. If the transaction has a high enough fee, they will board the first bus and be ready to be included in the next mined block. If there are too many transactions to be included in the next block, and the transaction didn't pay a high enough fee, the person will either wait in line or board a different bus. Consecutive buses will appear when there are enough transactions to fill them.
+## Über TxStreet.com{#about}
+TxStreet.com ist ein Live-Visualizer für Kryptowährungen mit Bitcoin, Ethereum und Bitcoin Cash. Wenn eine neue Transaktion auf eine Kryptowährung übertragen wird, erscheint eine Person und versucht einen Bus zu betreten. Wenn die Transaktion eine ausreichende Gebühr hat, werden sie in den ersten Bus einsteigen und bereit sein, in den nächsten abgebauten Block aufgenommen zu werden. Wenn es zu viele Transaktionen gibt, um in den nächsten Block aufgenommen zu werden, und die Transaktion hat nicht eine hohe Gebühr gezahlt, die Person wartet entweder in der Linie oder an Bord eines anderen Bus. Es werden aufeinanderfolgende Busse angezeigt, wenn genügend Transaktionen vorhanden sind, um sie zu füllen.
 
 The movement speed of a person represents how high of a fee they paid compared to the current median fee.
 
