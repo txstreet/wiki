@@ -12,8 +12,8 @@ dateCreated: 2021-03-15T23:12:02.876Z
 
 ## Summary
 
-<a href="https://kyber.network/" target="_blank">Kyber Network</a> is a new system which allows the exchange and conversion of digital assets. We provide rich payment APIs and a new contract wallet that allow anyone to seamlessly receive payments from any tokens.
+<a href="https://kyber.network/" target="_blank">Kyber Network</a> is a new system which allows the exchange and conversion of digital assets. We provide rich payment APIs and a new contract wallet that allow anyone to seamlessly receive payments from any tokens. We provide rich payment APIs and a new contract wallet that allow anyone to seamlessly receive payments from any tokens.
 
 ## Config
 
-Below is a json config file used by TxStreet, including a list of contracts. [kyber.json](/ethereum/houses/kyber.json)
+Below is a json config file used by TxStreet, including a list of contracts. [kyber.json](/ethereum/houses/kyber.json) [kyber.json](/ethereum/houses/kyber.json)
