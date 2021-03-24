@@ -2,7 +2,7 @@
 title: Consensus Algorithms
 description: 
 published: true
-date: 2021-03-24T04:44:07.638Z
+date: 2021-03-24T04:45:06.073Z
 tags: proof-of-work, proof-of-stake
 editor: markdown
 dateCreated: 2021-03-21T12:43:16.736Z
