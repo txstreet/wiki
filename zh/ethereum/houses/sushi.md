@@ -16,4 +16,4 @@ The <a href="https://sushi.com/" target="_blank">SushiSwap</a> protocol realigns
 
 ## Config
 
-Below is a json config file used by TxStreet, including a list of contracts. [sushi.json](/ethereum/houses/sushi.json)
+Below is a json config file used by TxStreet, including a list of contracts. [sushi.json](/ethereum/houses/sushi.json) [sushi.json](/ethereum/houses/sushi.json)

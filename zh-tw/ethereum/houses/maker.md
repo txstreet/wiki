@@ -16,4 +16,4 @@ dateCreated: 2021-03-15T23:13:35.998Z
 
 ## Config
 
-Below is a json config file used by TxStreet, including a list of contracts. [maker.json](/ethereum/houses/maker.json)
+Below is a json config file used by TxStreet, including a list of contracts. [maker.json](/ethereum/houses/maker.json) [maker.json](/ethereum/houses/maker.json)

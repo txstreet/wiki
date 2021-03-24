@@ -10,10 +10,10 @@ dateCreated: 2021-03-12T15:50:53.437Z
 
 ![Uniswap](https://txstreet.com/static/img/singles/house_logos/uniswap.png)
 
-## Summary
+## Zusammenfassung{#summary}
 
-<a href="https://app.uniswap.org" target="_blank">Uniswap</a> is a protocol for automated token exchange on Ethereum. Designed with simplicity in mind, the Uniswap protocol provides an interface for seamless exchange of ERC20 tokens on Ethereum. By eliminating unnecessary forms of rent extraction and middlemen it allows faster, more efficient exchange. Where it makes tradeoffs, decentralization, censorship resistance, and security are prioritized.
+<a href="https://app. uniswap. org" target="_blank">Uniswap</a> ist ein Protokoll für den automatisierten Tokenaustausch auf Ethereum. Das Uniswap-Protokoll wurde im Hinblick auf Einfachheit konzipiert und bietet eine Schnittstelle für den nahtlosen Austausch von ERC20-Token auf Ethereum. Durch die Beseitigung unnötiger Formen von Mieteextraktion und Zwischenhändlern ermöglicht es einen schnelleren und effizienteren Austausch. Wo Kompromisse erzielt werden, werden Dezentralisierung, Zensurresistenz und Sicherheit priorisiert.
 
-## Config
+## Konfiguration{#config}
 
-Below is a json config file used by TxStreet, including a list of contracts. [uniswap.json](/ethereum/houses/uniswap.json)
+Unten ist eine von TxStreet verwendete json Konfigurationsdatei, inklusive einer Liste von Verträgen. [uniswap.json](/ethereum/houses/uniswap.json)

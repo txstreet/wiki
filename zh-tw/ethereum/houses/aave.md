@@ -16,4 +16,4 @@ dateCreated: 2021-03-15T22:04:31.256Z
 
 ## Config
 
-Below is a json config file used by TxStreet, including a list of contracts. [aave.json](/ethereum/houses/aave.json)
+Below is a json config file used by TxStreet, including a list of contracts. [aave.json](/ethereum/houses/aave.json) [aave.json](/ethereum/houses/aave.json)
