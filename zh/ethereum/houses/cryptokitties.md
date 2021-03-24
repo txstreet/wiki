@@ -12,8 +12,8 @@ dateCreated: 2021-03-15T22:55:52.976Z
 
 ## Summary
 
-In <a href="https://www.cryptokitties.co/" target="_blank">CryptoKitties</a>, users collect and breed oh-so-adorable creatures that we call CryptoKitties! Each kitty has a unique genome that defines its appearance and traits. Players can breed their kitties to create new furry friends and unlock rare cattributes.
+In <a href="https://www.cryptokitties.co/" target="_blank">CryptoKitties</a>, users collect and breed oh-so-adorable creatures that we call CryptoKitties! Each kitty has a unique genome that defines its appearance and traits. In <a href="https://www.cryptokitties.co/" target="_blank">CryptoKitties</a>, users collect and breed oh-so-adorable creatures that we call CryptoKitties! Each kitty has a unique genome that defines its appearance and traits. Players can breed their kitties to create new furry friends and unlock rare cattributes.
 
 ## Config
 
-Below is a json config file used by TxStreet, including a list of contracts. [cryptokitties.json](/ethereum/houses/cryptokitties.json)
+Below is a json config file used by TxStreet, including a list of contracts. [cryptokitties.json](/ethereum/houses/cryptokitties.json) [cryptokitties.json](/ethereum/houses/cryptokitties.json)
