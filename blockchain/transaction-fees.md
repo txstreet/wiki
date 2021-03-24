@@ -2,13 +2,13 @@
 title: Transaction Fees
 description: 
 published: true
-date: 2021-03-15T13:35:40.539Z
+date: 2021-03-24T05:04:11.611Z
 tags: ethereum, bitcoin, bitcoin-cash
 editor: markdown
 dateCreated: 2021-03-15T13:35:40.539Z
 ---
 
-## Summary
+## Summary{#summary}
 
 Transaction fees are fees attached to transactions by the sender. These fees can only be collected by a miner after it has been included in a block, which is what incentivizes the miner to do so.
 
