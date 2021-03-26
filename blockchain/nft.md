@@ -2,7 +2,7 @@
 title: Non-Fungible Tokens
 description: 
 published: true
-date: 2021-03-26T08:01:36.943Z
+date: 2021-03-26T14:29:21.669Z
 tags: opensea, nft
 editor: markdown
 dateCreated: 2021-03-17T13:58:30.183Z
@@ -12,8 +12,7 @@ dateCreated: 2021-03-17T13:58:30.183Z
 
 Non-Fungible Tokens, commonly referred to as NFTs, are non-denominational tokens (think of them like files on a blockchain) that represent ownership of assets in the digital and real world. They have unique characteristics that can be verified and tracked throughout the blockchain, along with the NFT's owner. This ensures no copycats have any validity - should someone decide to download the same file and tokenize it themself, blockchain records will show theirs is not the original. If it can be put on a computer or digitized in any way, then it can be tokenized and therefore turned into a NFT. 
 
-
-![snowman.png](/snowman.png)       ![santa.png](/santa.png)
+<video src="https://txstreet.com/static/img/items/snowman.mp4" loop='true' autoplay='true' muted='true'></video> <video src="https://txstreet.com/static/img/items/santa.mp4" loop='true' autoplay='true' muted='true'></video> <video src="https://txstreet.com/static/img/items/helper.mp4" loop='true' autoplay='true' muted='true'></video>
 
 Pictured above are the Premium [TxStreet](https://www.txstreet.com) Christmas NFT's.
 
