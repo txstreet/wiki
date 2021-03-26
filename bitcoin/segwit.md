@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-03-15T13:52:46.562Z
 ---
 
-## Summary
+## Summary{#summary}
 
 Segwit was added to the Bitcoin (BTC) protocol in 2017 as a "soft fork" with backwards compatibility. The main function of segwit is removing the signature data (witness) from transactions and storing them in a separate area of the block that legacy nodes (nodes running bitcoin software from before segwit) cannot see. Segwit also removes the block size limit of 1mb (1,000,000 bytes), and replaces it with a "weight limit" of 4mwu (4,000,000 weight units), giving bitcoin a slight increase in transaction throughput, if utilized. However, it is not a simple 4x increase because the way in which the weight limit operates is complex.
 
