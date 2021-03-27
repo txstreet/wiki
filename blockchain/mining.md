@@ -2,7 +2,7 @@
 title: Mining
 description: Mining is the process of miners validating transactions for reward.
 published: true
-date: 2021-03-27T15:11:53.094Z
+date: 2021-03-27T15:13:45.539Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-26T14:27:29.847Z
@@ -10,7 +10,7 @@ dateCreated: 2021-03-26T14:27:29.847Z
 
 ## Summary{#summary} 
 
-Mining is the process in which transactions from the mempool are added to a block in a proof-of-work blockchain. This is done by [miners](#miners), who are people running mining software on their computer. Miners are incentivized to do this because for each new block they mine, they get to collect/create a block reward (which is also how new bitcoins are added into circulation), and transaction fees.
+Mining is the process in which transactions from the mempool are added to a block in a proof-of-work blockchain. This is done by miners, who are people running mining software on their computer. Miners are incentivized to do this because for each new block they mine, they get to collect/create a block reward (which is also how new bitcoins are added into circulation), and transaction fees.
 
 On TxStreet.com, mining is visualized by the traffic lights, which turn green whenever a miner finds a block, and otherwise stay red when miners are working.
 
