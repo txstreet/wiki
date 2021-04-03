@@ -3,7 +3,7 @@ title: Mining
 description: Mining is the process of miners validating transactions for reward.
 published: true
 date: 2021-03-27T15:13:45.539Z
-tags: 
+tags: bitcoin, bitcoin-cash, blockchain, monero
 editor: markdown
 dateCreated: 2021-03-26T14:27:29.847Z
 ---
