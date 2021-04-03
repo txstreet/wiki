@@ -1,9 +1,9 @@
 ---
 title: Mempool
-description: 
+description: The mempool is a list of transactions currently waited to be confirmed.
 published: true
 date: 2021-03-24T04:54:20.651Z
-tags: ethereum, bitcoin, bitcoin-cash
+tags: ethereum, bitcoin, bitcoin-cash, blockchain, monero
 editor: markdown
 dateCreated: 2021-03-15T13:42:07.942Z
 ---
