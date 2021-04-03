@@ -1,9 +1,9 @@
 ---
 title: Transaction Fees
-description: 
+description: Transaction fees are attached to transactions to pay back miners, and the average fee is calculated by how busy the network currently is.
 published: true
-date: 2021-03-24T05:04:11.611Z
-tags: ethereum, bitcoin, bitcoin-cash
+date: 2021-04-03T00:59:44.611Z
+tags: ethereum, bitcoin, bitcoin-cash, blockchain, monero
 editor: markdown
 dateCreated: 2021-03-15T13:35:40.539Z
 ---
