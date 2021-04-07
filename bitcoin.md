@@ -10,7 +10,7 @@ dateCreated: 2021-03-15T13:52:02.399Z
 
 ## Summary{#summary}
 
-Bitcoin is the first ever blockchain and cryptocurrency, created by an individual (or group of individuals) who went by the name Satoshi Nakamoto. The goal behind Bitcoin was to create a "peer-to-peer electronic cash system" without a middleman or intermediary, but over time it has become better known as a store of value, like gold.
+Bitcoin is the first ever blockchain and cryptocurrency, created by an individual (or group of individuals) who went by the name Satoshi Nakamoto. The goal behind Bitcoin was to create a "peer-to-peer electronic cash system" that takes trust out of the equation, but over time it has become better known as a store of value, like gold.
 
 ## What is Bitcoin?{#bitcoin}
 
@@ -20,4 +20,4 @@ Bitcoins, the cryptocurrency, are issued through a process called [mining](#mini
 
 ## Bitcoin's History{#bitcoin-history}
 
-Satoshi Nakamoto, the pseudonym used by the person or group of people that created Bitcoin, published the Bitcoin [whitepaper](#whitepaper) in 2008. The genesis block and first Bitcoin transaction between peers both occurred in January of 2009. The recipient of this transaction was Hal Finney, who was known to be a prominent contributor to the Bitcoin project in its early days.  
+Before Bitcoin could be created, the groundwork had to be laid. In the previous several decades, many cryptographers had been researching for a way to send and receive information privately, so that no third-party could interfere. In this search, two cryptographers by the names of [Cynthia Dwork](https://en.wikipedia.org/wiki/Cynthia_Dwork) and [Moni Naor](https://en.wikipedia.org/wiki/Moni_Naor) ended up creating Proof-of-Work. In 2008 Satoshi Nakamoto, the pseudonym used by the person or group of people that created Bitcoin, published the Bitcoin [whitepaper](#whitepaper) which used sources over fifty years old and included how technologies like Proof-of-Work would be implemented. The genesis block and first Bitcoin transaction between peers both occurred in January of 2009, marking what most would call its birth. The recipient of this transaction was [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)), who was known to be a prominent contributor to the Bitcoin project in its early days, but has since passed.
