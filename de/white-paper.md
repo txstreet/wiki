@@ -3,7 +3,7 @@ title: White Paper
 description: White papers inform people of a project's plans, methods, and technologies.
 published: true
 date: 2021-03-24T03:48:59.998Z
-tags:
+tags: blockchain, bitcoin
 editor: markdown
 dateCreated: 2021-03-23T14:39:31.998Z
 ---
