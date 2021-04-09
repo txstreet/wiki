@@ -1,8 +1,8 @@
 ---
 title: Ethereum
-description: 
+description: Ethereum is a blockchain, cryptocurrency, and software platform where smart contracts and Dapps are built and used.
 published: true
-date: 2021-03-12T16:43:49.060Z
+date: 2021-04-09T03:47:30.060Z
 tags: ethereum
 editor: markdown
 dateCreated: 2021-03-12T16:43:49.060Z
@@ -11,6 +11,8 @@ dateCreated: 2021-03-12T16:43:49.060Z
 ## Summary{#summary}
 
 Ethereum is a decentralized software platform created so that users could create their own applications, protocols, currencies, and more on the blockchain. It uses the same fundamentals to circulate currency as Bitcoin does, but is slowly making the switch to a different set of fundamentals for Ethereum 2.0, which has the potential to compete with the likes of Visa and Mastercard in transactions per second. 
+
+Ethereum blocks are visualized on [TxStreet](https://www.txstreet.com) as blue buses with the Ethereum logo and the gas price associated.
 
 [houses](/en/ethereum/houses)
 
