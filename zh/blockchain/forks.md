@@ -1,9 +1,9 @@
 ---
 title: Forks
-description:
+description: Forks are updates to a blockchain that result as a split of the users and their opinions on moving forward.
 published: true
 date: 2021-03-24T04:50:42.034Z
-tags:
+tags: ethereum, bitcoin, bitcoin-cash, blockchain, monero
 editor: markdown
 dateCreated: 2021-03-21T12:43:19.870Z
 ---
