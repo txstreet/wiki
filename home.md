@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2021-03-24T05:05:11.420Z
+date: 2021-04-10T12:23:04.413Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-12T15:45:20.827Z
@@ -17,7 +17,7 @@ The movement speed of a person represents how high of a fee they paid compared t
 
 The size of a person represents the size of the transaction (Bytes for BTC/BCH, Gas for ETH).
 
-Eth contract lists from [Dapp.Review](https://dapp.review/)
+For a list of ETH contracts used by TxStreet, view the json files [here](https://github.com/txstreet/wiki/tree/main/ethereum/houses)
 
 Market data from [CoinGecko.com](https://www.coingecko.com/en)
 
