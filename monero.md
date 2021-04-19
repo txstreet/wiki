@@ -2,7 +2,7 @@
 title: Monero
 description: Monero is a privacy focused blockchain and cryptocurrency.
 published: true
-date: 2021-04-13T21:27:38.488Z
+date: 2021-04-19T20:54:29.786Z
 tags: monero
 editor: markdown
 dateCreated: 2021-04-09T15:14:07.339Z
@@ -11,6 +11,8 @@ dateCreated: 2021-04-09T15:14:07.339Z
 ## Summary{#summary}
 
 Monero is the leading privacy oriented blockchain and cryptocurrency. To maintain full privacy on their blockchain Monero hides the sender, receiver, and amount of every single transaction, preventing any link to a single person, so you'll only know who sent you Monero if they discuss it with you. Despite users of the network not being able to see vital transaction information, the blockchain can still verify this hidden information, so Monero is still secure.
+
+Monero blocks are visualized on [TxStreet](https://www.txstreet.com) as orange buses with the Monero logo, the block number, and the transaction fee associated.
 
 ## What is Monero?{#monero}
 
