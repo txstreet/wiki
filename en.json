@@ -85,7 +85,7 @@
 		"volume-usd": "@:btc.volume-usd"
 	},
 	"xmr": {
-		"blockchainSize": "Blockchain Size (Pruned)",
+		"blockchainSize": "Blockchain Size",
 		"bps": "@:bch.bps",
 		"ctps": "@:btc.ctps",
 		"difficulty": "@:btc.difficulty",
