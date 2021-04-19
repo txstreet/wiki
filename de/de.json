@@ -85,7 +85,7 @@
 		"volume-usd": "@:btc.volume-usd"
 	},
 	"xmr": {
-		"blockchainSize": "Blockchain Size (Pruned)",
+		"blockchainSize": "Blockchain Size",
 		"bps": "@:bch.bps",
 		"ctps": "@:btc.ctps",
 		"difficulty": "@:btc.difficulty",
@@ -98,7 +98,7 @@
 		"medianFee-fee": "Median Fee (XMR)",
 		"medianFee-usd": "@:btc.medianFee-usd",
 		"medianTxsPerBlock": "@:btc.medianTxsPerBlock",
-		"mempool-bytes": "@:btc.mempool-size",
+		"mempool-bytes": "@:btc.mempool-bytes",
 		"mempool-size": "@:btc.mempool-size",
 		"blockSizeLimit": "Current Block Size Limit",
 		"s": "@:bch.s",
