@@ -2,7 +2,7 @@
 title: Live Stats
 description: Descriptions of live how live statistics are calculated on TxStreet.
 published: true
-date: 2021-03-19T00:02:39.740Z
+date: 2021-04-20T15:30:27.514Z
 tags: bitcoin-cash
 editor: markdown
 dateCreated: 2021-03-19T00:02:39.740Z
@@ -20,7 +20,7 @@ Confirmed transactions per second measures rate of confirmed transactions per se
 
 Mempool Size measures the sum of the size (Megabytes) of the pending transactions in the mempool on the TxStreet Bitcoin Cash node.
 
-## Mempool Count
+## Mempool Count{#mempool-count}
 
 Mempool Count measures the total number of pending transactions in the mempool on the TxStreet Bitcoin Cash node.
 
