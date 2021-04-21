@@ -16,4 +16,4 @@ Tokenize anything with <a href="https://simpleledger.cash/" target="_blank">Simp
 
 ## Config
 
-Below is a json config file used by TxStreet, including a list of contracts. [slp.json](/bitcoincash/houses/slp.json) [slp.json](/bitcoincash/houses/slp.json)
+Below is a json config file used by TxStreet, including a list of contracts. [slp.json](/bitcoincash/houses/slp.json) [slp.json](/bitcoincash/houses/slp.json) [slp.json](/bitcoincash/houses/slp.json)
