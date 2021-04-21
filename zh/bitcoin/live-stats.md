@@ -10,7 +10,7 @@ dateCreated: 2021-03-18T23:53:17.791Z
 
 ## Broadcasted Tx/Sec
 
-Broadcasted transactions per second measures the number of new and unique transactions broadcasted within the last 5 minutes. This number is then divided by 300 to reach an average "per second" result. This number is then divided by 300 to reach an average "per second" result.
+Broadcasted transactions per second measures the number of new and unique transactions broadcasted within the last 5 minutes. This number is then divided by 300 to reach an average "per second" result.
 
 ## Confirmed Tx/Sec
 

@@ -1,9 +1,9 @@
 ---
 title: Block Time
-description:
+description: Block time is the average time between blocks.
 published: true
 date: 2021-03-24T04:54:49.531Z
-tags: ethereum, bitcoin, bitcoin-cash
+tags: ethereum, bitcoin, bitcoin-cash, blockchain, monero
 editor: markdown
 dateCreated: 2021-03-15T13:37:26.376Z
 ---
