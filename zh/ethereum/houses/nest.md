@@ -16,4 +16,4 @@ dateCreated: 2021-03-15T23:15:36.612Z
 
 ## Config
 
-Below is a json config file used by TxStreet, including a list of contracts. [nest.json](/ethereum/houses/nest.json) [nest.json](/ethereum/houses/nest.json)
+Below is a json config file used by TxStreet, including a list of contracts. [nest.json](/ethereum/houses/nest.json) [nest.json](/ethereum/houses/nest.json) [nest.json](/ethereum/houses/nest.json)
