@@ -10,7 +10,7 @@ dateCreated: 2021-03-23T14:39:31.998Z
 
 ## Summary{#summary}
 
-White papers and light papers alike serve the purpose of directly informing people in the cryptocurrency space of emerging projects and what they plan on doing, along with how they plan on doing it. White papers typically follow a formal and technical outline while light papers are more focused on making the information easier to understand.
+White papers and light papers alike serve the purpose of directly informing people in the cryptocurrency space of emerging projects and what they plan on doing, along with how they plan on doing it. White papers typically follow a formal and technical outline while light papers are more focused on making the information easier to understand. White papers typically follow a formal and technical outline while light papers are more focused on making the information easier to understand.
 
 ## White Papers{#white-papers}
 
@@ -22,9 +22,9 @@ White papers and light papers alike serve the purpose of directly informing peop
 
 3. Technology - Technology within the project.
 
-    3a. Transaction Technology - How the project plans to exchange between people on the network.
+    3a. 3a. Transaction Technology - How the project plans to exchange between people on the network.
 
-    3b. Network Technology - How the project plans to send, receive, verify, record, and store data and transactions on the network.
+    3b. 3b. Network Technology - How the project plans to send, receive, verify, record, and store data and transactions on the network.
 
 4. Incentive - Why people should be interested in being an active user and node.
 
@@ -36,7 +36,7 @@ White papers and light papers alike serve the purpose of directly informing peop
 
 ## Light Papers{#light-papers}
 
-To avoid having a strenuous and technical order, many cryptocurrency projects are beginning to release **Light Papers** instead. These are essentially the same as white papers, still detailing projects and their goals, but much easier for readers to digest. To compare between a white paper, the [Cartesi](https://cartesi.io/) light paper can be found [here](https://cartesi.io/cartesi_lightpaper_english.pdf).
+To avoid having a strenuous and technical order, many cryptocurrency projects are beginning to release **Light Papers** instead. These are essentially the same as white papers, still detailing projects and their goals, but much easier for readers to digest. To compare between a white paper, the [Cartesi](https://cartesi.io/) light paper can be found [here](https://cartesi.io/cartesi_lightpaper_english.pdf). These are essentially the same as white papers, still detailing projects and their goals, but much easier for readers to digest. To compare between a white paper, the [Cartesi](https://cartesi.io/) light paper can be found [here](https://cartesi.io/cartesi_lightpaper_english.pdf).
 
 
 
