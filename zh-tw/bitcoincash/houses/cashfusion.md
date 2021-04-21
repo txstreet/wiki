@@ -17,4 +17,4 @@ dateCreated: 2021-03-15T01:00:35.998Z
 
 ## Config
 
-Below is a json config file used by TxStreet, including a list of contracts. [cashfusion.json](/bitcoincash/houses/cashfusion.json) [cashfusion.json](/bitcoincash/houses/cashfusion.json)
+Below is a json config file used by TxStreet, including a list of contracts. [cashfusion.json](/bitcoincash/houses/cashfusion.json) [cashfusion.json](/bitcoincash/houses/cashfusion.json) [cashfusion.json](/bitcoincash/houses/cashfusion.json)
