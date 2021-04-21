@@ -16,4 +16,4 @@ dateCreated: 2021-03-15T23:03:53.607Z
 
 ## Config
 
-Below is a json config file used by TxStreet, including a list of contracts. [gnosis.json](/ethereum/houses/gnosis.json) [gnosis.json](/ethereum/houses/gnosis.json)
+Below is a json config file used by TxStreet, including a list of contracts. [gnosis.json](/ethereum/houses/gnosis.json) [gnosis.json](/ethereum/houses/gnosis.json) [gnosis.json](/ethereum/houses/gnosis.json)
