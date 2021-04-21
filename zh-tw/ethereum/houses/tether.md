@@ -16,4 +16,4 @@ dateCreated: 2021-03-15T23:24:42.456Z
 
 ## Config
 
-Below is a json config file used by TxStreet, including a list of contracts. [tether.json](/ethereum/houses/tether.json) [tether.json](/ethereum/houses/tether.json)
+Below is a json config file used by TxStreet, including a list of contracts. [tether.json](/ethereum/houses/tether.json) [tether.json](/ethereum/houses/tether.json) [tether.json](/ethereum/houses/tether.json)
