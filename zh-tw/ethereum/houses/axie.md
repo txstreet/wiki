@@ -16,4 +16,4 @@ Battle, Collect, and raise fantasy creatures called <a href="https://out.txstree
 
 ## Config
 
-Below is a json config file used by TxStreet, including a list of contracts. [axie.json](/ethereum/houses/axie.json) [axie.json](/ethereum/houses/axie.json)
+Below is a json config file used by TxStreet, including a list of contracts. [axie.json](/ethereum/houses/axie.json) [axie.json](/ethereum/houses/axie.json) [axie.json](/ethereum/houses/axie.json)
