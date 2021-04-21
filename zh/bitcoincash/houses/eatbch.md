@@ -16,4 +16,4 @@ dateCreated: 2021-03-17T22:17:18.836Z
 
 ## Config
 
-Below is a json config file used by TxStreet, including a list of contracts. [eatbch.json](/bitcoincash/houses/eatbch.json) [eatbch.json](/bitcoincash/houses/eatbch.json)
+Below is a json config file used by TxStreet, including a list of contracts. [eatbch.json](/bitcoincash/houses/eatbch.json) [eatbch.json](/bitcoincash/houses/eatbch.json) [eatbch.json](/bitcoincash/houses/eatbch.json)
