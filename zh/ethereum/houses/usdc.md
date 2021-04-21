@@ -16,4 +16,4 @@ dateCreated: 2021-03-15T23:27:27.129Z
 
 ## Config
 
-Below is a json config file used by TxStreet, including a list of contracts. [usdc.json](/ethereum/houses/usdc.json) [usdc.json](/ethereum/houses/usdc.json)
+Below is a json config file used by TxStreet, including a list of contracts. [usdc.json](/ethereum/houses/usdc.json) [usdc.json](/ethereum/houses/usdc.json) [usdc.json](/ethereum/houses/usdc.json)
