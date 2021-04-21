@@ -16,4 +16,4 @@ dateCreated: 2021-03-15T23:10:26.310Z
 
 ## Config
 
-Below is a json config file used by TxStreet, including a list of contracts. [idex.json](/ethereum/houses/idex.json) [idex.json](/ethereum/houses/idex.json)
+Below is a json config file used by TxStreet, including a list of contracts. [idex.json](/ethereum/houses/idex.json) [idex.json](/ethereum/houses/idex.json) [idex.json](/ethereum/houses/idex.json)
