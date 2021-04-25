@@ -3,7 +3,7 @@ title: Block Size
 description: The block size limit is the maximum size that a block can be in order to be accepted by the network.
 published: true
 date: 2021-03-24T05:02:38.389Z
-tags: ethereum, bitcoin, bitcoin-cash, blockchain
+tags: ethereum, bitcoin, bitcoin-cash, blockchain, monero
 editor: markdown
 dateCreated: 2021-03-11T22:49:20.087Z
 ---

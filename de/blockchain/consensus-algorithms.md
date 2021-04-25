@@ -1,9 +1,9 @@
 ---
 title: Consensus Algorithms
-description:
+description: Consensus algorithms are mechanisms in computer science that blockchains use to operate as intended.
 published: true
 date: 2021-03-24T04:45:06.073Z
-tags: proof-of-work, proof-of-stake
+tags: ethereum, bitcoin, bitcoin-cash, blockchain, monero
 editor: markdown
 dateCreated: 2021-03-21T12:43:16.736Z
 ---
