@@ -2,7 +2,7 @@
 title: AnyHedge
 description: 
 published: true
-date: 2021-03-15T23:59:41.488Z
+date: 2021-05-07T06:04:28.420Z
 tags: bitcoin-cash, anyhedge
 editor: markdown
 dateCreated: 2021-03-15T23:54:38.676Z
@@ -10,11 +10,11 @@ dateCreated: 2021-03-15T23:54:38.676Z
 
 ![Anyhedge](https://txstreet.com/static/img/singles/house_logos/anyhedge.png)
 
-## Summary
+## Summary{#summary}
 
-We've leveraged the power of smart contracts on Bitcoin Cash to usher in a new era of trustless and non-custodial trading. Think the Japanese yen will rise in relation to BCH? <a href="https://anyhedge.com/" target="_blank">AnyHedge</a> allows you to open a position and find out.
+[AnyHedge](https://anyhedge.com/), the first DeFi application to be built on Bitcoin Cash (and very similar to Ethereum's Synthetix), is a decentralized platform intended to give users the the availability of hedging or longing their BCH against synthetic assets.
 
-## Config
+## Config{#config}
 
 Below is a json config file used by TxStreet, including a list of contracts.
 [anyhedge.json](/ethereum/houses/anyhedge.json)
