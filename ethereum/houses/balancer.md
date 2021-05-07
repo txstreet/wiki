@@ -2,7 +2,7 @@
 title: Balancer
 description: 
 published: true
-date: 2021-03-15T22:08:39.790Z
+date: 2021-05-07T05:01:34.948Z
 tags: ethereum, balancer
 editor: markdown
 dateCreated: 2021-03-15T22:08:39.790Z
@@ -10,11 +10,11 @@ dateCreated: 2021-03-15T22:08:39.790Z
 
 ![Balancer](https://txstreet.com/static/img/singles/house_logos/balancer.png)
 
-## Summary
+## Summary{#summary}
 
-<a href="https://balancer.finance" target="_blank">Balancer</a> is a protocol for multi-token automated market-making. It enables portfolio owners to create Balancer Pools and traders to trade against these pools. Balancer Pools contain 2 or more tokens each with arbitrary weights of the total pool value. The pools provide the Balancer Protocol with liquidity, and charge traders a trading fee in return. Pools can be considered automated market-makers since anyone can trade between any two tokens present in any pool.
+[Balancer](https://balancer.finance/) is a decentralized protocol designed for multi-token automated market-making and portfolio managing. It enables portfolio owners to create Balancer pools and traders to trade against these pools. Balancer pools contain anywhere from 2 to 8 tokens, each with customizable weights in regard to the total pool value. Liquidity providers are rewarded in the protocol's governance token, BAL, and can use it to submit and vote on proposals to the Balancer ecosystem.
 
-## Config
+## Config{#config}
 
 Below is a json config file used by TxStreet, including a list of contracts.
 [balancer.json](/ethereum/houses/balancer.json)
