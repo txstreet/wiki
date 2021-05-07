@@ -2,7 +2,7 @@
 title: Houses
 description: 
 published: true
-date: 2021-05-07T05:53:31.289Z
+date: 2021-05-07T05:54:56.294Z
 tags: ethereum
 editor: markdown
 dateCreated: 2021-03-12T15:54:22.129Z
@@ -40,8 +40,8 @@ dateCreated: 2021-03-12T15:54:22.129Z
 [![Nest](https://txstreet.com/static/img/singles/house_logos/nest.png)](/en/ethereum/houses/nest)
 ### [Opensea](/en/ethereum/houses/opensea)
 [![Opensea](https://txstreet.com/static/img/singles/house_logos/opensea.png)](/en/ethereum/houses/opensea)
-### [SushiSwap](/en/ethereum/houses/sushiswap)
-[![Sushi](https://txstreet.com/static/img/singles/house_logos/sushi.png)](/en/ethereum/houses/sushiswap)
+### [SushiSwap](/en/ethereum/houses/sushi)
+[![Sushi](https://txstreet.com/static/img/singles/house_logos/sushi.png)](/en/ethereum/houses/sushi)
 ### [Synthetix](/en/ethereum/houses/synthetix)
 [![Synthetix](https://txstreet.com/static/img/singles/house_logos/synthetix.png)](/en/ethereum/houses/synthetix)
 ### [Tether](/en/ethereum/houses/tether)
