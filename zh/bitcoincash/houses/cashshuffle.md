@@ -2,19 +2,19 @@
 title: Cash Shuffle
 description:
 published: true
-date: 2021-03-15T01:23:26.998Z
+date: 2021-05-07T06:07:23.384Z
 tags: bitcoin-cash, cash-shuffle
 editor: markdown
-dateCreated: 2021-03-15T01:00:35.998Z
+dateCreated: 2021-03-16T01:45:18.613Z
 ---
 
 ![Cash Shuffle](https://txstreet.com/static/img/singles/house_logos/cashshuffle.png)
 
-## Summary
+## Summary{#summary}
 
-[CashShuffle](https://cashshuffle.com/) is a fully decentralized coin mixing protocol that shuffles your Bitcoin Cash with other network participants. This shuffling process obscures your real spending and makes it difficult for chain analysis companies to follow your transactions. This shuffling process obscures your real spending and makes it difficult for chain analysis companies to follow your transactions. This shuffling process obscures your real spending and makes it difficult for chain analysis companies to follow your transactions.
+[CashShuffle](https://cashshuffle.com/) is a fully decentralized Bitcoin Cash privacy protocol that matches you with other network participants to collectively shuffle your BCH, combining transactions. This shuffling process obscures your spending history and makes it incredibly difficult for anyone to track your Bitcoin Cash using chain analysis.
 
 
-## Config
+## Config{#config}
 
 Below is a json config file used by TxStreet, including a list of contracts. [cashshuffle.json](/bitcoincash/houses/cashshuffle.json) [cashshuffle.json](/bitcoincash/houses/cashshuffle.json) [cashshuffle.json](/bitcoincash/houses/cashshuffle.json)
