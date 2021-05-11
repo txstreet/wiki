@@ -2,7 +2,7 @@
 title: Bitcoin Cash
 description: Bitcoin cash is a blockchain and cryptocurrency that forked from Bitcoin.
 published: true
-date: 2021-05-11T07:16:19.981Z
+date: 2021-05-11T16:23:39.249Z
 tags: bitcoin-cash
 editor: markdown
 dateCreated: 2021-03-16T00:00:39.823Z
@@ -14,9 +14,9 @@ Bitcoin Cash is a blockchain and cryptocurrency that separated from Bitcoin with
 
 Bitcoin Cash blocks are visualized on [TxStreet](https://www.txstreet.com) as green buses with the Bitcoin Cash logo, the block number, and the transaction fee associated.
 
-[Houses](/en/bitcoincash/houses)
-
-[Live Stats](/en/bitcoincash/live-stats)
+- [Houses](/bitcoincash/houses)
+- [Live Stats](/bitcoincash/live-stats)
+{.links-list}
 
 ## What is Bitcoin Cash?{#bitcoin-cash}
 
