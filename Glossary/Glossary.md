@@ -1,8 +1,8 @@
 ---
 title: Blockchain Glossary
-description: 
+description: The TxStreet Glossary, simplifying the most complex cryptocurrency related terms.
 published: true
-date: 2021-05-11T16:50:44.845Z
+date: 2021-05-11T17:09:12.319Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-11T16:50:44.845Z
@@ -14,24 +14,25 @@ Coming Soon
 
 
 ## Blockchain
-- [Block Explorer](/blockchain/blockexplorer)
+- [Block Explorer](/Glossary/blockexplorer)
 - [Block Size]()
 - [Block Time]()
 - [Confirmations]()
-- [Consensus Algorithms](/blockchain/consensus-algorithms)
+- [Consensus Algorithms](/Glossary/consensus-algorithms)
 - [Decentralized Autonomous Organizations]()
 - [Distributed Ledger]()
 - [Genesis Block]()
-- [Mempool](/blockchain/mempool)
-- [Mining](/blockchain/mining)
+- [Mempool](/Glossary/mempool)
+- [Mining](/Glossary/mining)
 - [Oracles]()
 - [Smart Contracts]()
 {.links-list}
 
 ## Cryptocurrency
-- [Altcoins and Tokens]()
-- [Forks](/blockchain/forks)
-- [Non-Fungible Tokens]()
+- [Altcoins and Tokens](/Glossary/altcoins-and-tokens)
+- [Forks](/Glossary/forks)
+- [Non-Fungible Tokens](/Glossary/nft)
 - [Private Keys, Public Keys, and Wallet Addresses]()
-- [Transaction Fees](/blockchain/transaction-fees)
+- [Transaction Fees](/Glossary/transaction-fees)
+- [White Paper](/Glossary/white-paper)
 {.links-list}
