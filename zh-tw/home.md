@@ -2,14 +2,14 @@
 title: 家
 description:
 published: true
-date: 2021-04-19T21:26:58.128Z
+date: 2021-05-14T03:46:59.233Z
 tags:
 editor: markdown
 dateCreated: 2021-03-12T15:52:42.210Z
 ---
 
 # 家{#home}
-快來了
+Coming Soon.
 ## About TxStreet.com{#about}
 TxStreet.com is a live cryptocurrency transaction visualizer featuring Bitcoin, Ethereum, Bitcoin Cash and Monero. When a new transaction is broadcasted to a cryptocurrency, a person appears and attempts to board a bus. If the transaction has a high enough fee, they will board the first bus and be ready to be included in the next mined block. If there are too many transactions to be included in the next block, and the transaction didn't pay a high enough fee, the person will either wait in line or board a different bus. Consecutive buses will appear when there are enough transactions to fill them. When a new transaction is broadcasted to a cryptocurrency, a person appears and attempts to board a bus. If the transaction has a high enough fee, they will board the first bus and be ready to be included in the next mined block. If there are too many transactions to be included in the next block, and the transaction didn't pay a high enough fee, the person will either wait in line or board a different bus. Consecutive buses will appear when there are enough transactions to fill them.
 
