@@ -2,14 +2,14 @@
 title: Home
 description:
 published: true
-date: 2021-04-19T21:26:58.128Z
+date: 2021-05-14T03:46:59.233Z
 tags:
 editor: markdown
 dateCreated: 2021-03-12T15:45:20.827Z
 ---
 
 # Home
-Coming Soon
+Coming Soon.
 ## Über TxStreet.com{#about}
 TxStreet.com is a live cryptocurrency transaction visualizer featuring Bitcoin, Ethereum, Bitcoin Cash and Monero. Wenn eine neue Transaktion auf eine Kryptowährung übertragen wird, erscheint eine Person und versucht einen Bus zu betreten. Wenn die Transaktion eine ausreichende Gebühr hat, werden sie in den ersten Bus einsteigen und bereit sein, in den nächsten abgebauten Block aufgenommen zu werden. Wenn es zu viele Transaktionen gibt, um in den nächsten Block aufgenommen zu werden, und die Transaktion hat nicht eine hohe Gebühr gezahlt, die Person wartet entweder in der Linie oder an Bord eines anderen Bus. Es werden aufeinanderfolgende Busse angezeigt, wenn genügend Transaktionen vorhanden sind, um sie zu füllen.
 
