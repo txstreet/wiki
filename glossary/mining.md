@@ -2,10 +2,10 @@
 title: Mining
 description: Mining is the process of miners validating transactions for reward.
 published: true
-date: 2021-03-27T15:13:45.539Z
+date: 2021-05-14T20:27:44.576Z
 tags: bitcoin, bitcoin-cash, blockchain, monero
 editor: markdown
-dateCreated: 2021-03-26T14:27:29.847Z
+dateCreated: 2021-05-14T03:15:53.132Z
 ---
 
 ## Summary{#summary} 
@@ -31,3 +31,9 @@ The issue with pool mining is that if users continue to join large pools, it giv
 ## Block Rewards and The Halving{#block-rewards-and-the-halving}
 
 **The Halving** is when the **block reward**, or what miners are issued for being the first miner to successfully create a block, is cut in half. It is coded into the network and automatically takes place every time a set number of blocks have been mined. For bitcoin, halving events happen every 210,000 blocks, around four years. Bitcoin's initial block reward was 50 BTC per block, although now it sits at 6.25 BTC per block. In 2024 it will be cut in half to 3.125 BTC per block.
+
+## Miner-Extractable Value (MEV){#mev}
+
+**Miner-Extractable Value (MEV)** is a measure of the profit a miner can make by including, excluding, or reorganizing transactions in a block. Miners have the full choice in deciding which transactions to include from the mempool into blocks, and they typically organize them by highest transaction fee. 
+
+Although the term was coined 'Miner'-Extractable Value, it doesn't necessarily have to apply to miners; One of the more common forms of MEV today is when arbitrage bots take advantage of **arbitrage opportunities**, which are discrepancies in a coin's price between exchanges. In the instance of an arbitrage opportunity, the arbitrage bot will purchase a coin on the exchange with a lower rate and quickly sell it on the exchange with a higher rate, earning themselves profit and causing liquidity providers impermanent loss in the process. Another popular form of MEV is frontrunning. When a frontrunning bot sees a trader's large transaction, they copy the transaction and pay a higher gas price to get their own transaction processed first. Doing so exposes the original trader to a high price slippage, and puts the frontrunner in profit upon completion of the original user's trade. These strategies of trying to extract more MEV than ever before, along with gas price bidding wars performed by arbitrage bots, are contributing to higher gas prices on the [Ethereum](/en/ethereum) network than ever before and exploiting those that use a DEX, effectively creating the MEV crisis.
