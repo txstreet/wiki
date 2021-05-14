@@ -1,9 +1,9 @@
 ---
-title: Blockchain
+title: General Blockchain Terms
 description: The blockchain is where all of the information ever recorded for a specific cryptocurrency is stored.
 published: true
-date: 2021-04-03T02:15:11.318Z
-tags: ethereum, bitcoin, bitcoin-cash, monero, blockchain
+date: 2021-05-11T17:00:24.119Z
+tags: ethereum, bitcoin, bitcoin-cash, blockchain, monero
 editor: markdown
 dateCreated: 2021-03-15T13:33:02.522Z
 ---
