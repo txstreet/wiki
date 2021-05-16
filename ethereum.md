@@ -2,7 +2,7 @@
 title: Ethereum
 description: Ethereum is a blockchain, cryptocurrency, and software platform where smart contracts and Dapps are built and used.
 published: true
-date: 2021-05-14T20:42:13.054Z
+date: 2021-05-16T00:20:35.621Z
 tags: ethereum
 editor: markdown
 dateCreated: 2021-03-12T16:43:49.060Z
@@ -33,6 +33,11 @@ Ethereum was proposed in 2013 by developer/programmer/writer Vitalik Buterin aft
 The formal work to build Ethereum began in 2014 with software development. [Gavin Wood](https://en.wikipedia.org/wiki/Gavin_Wood), whom would later go on to create [Polkadot](https://polkadot.network/), designed the EVM which allowed for smart contracts to be executed on the blockchain, and for applications to be built on top of Ethereum, like Vitalik had envisioned. Funding for development ran from July to August of 2014, where those that supported the project bought ETH, paying with BTC.
 
 In June of 2016, Ethereum suffered an attack where a hacker stole $50 million. A hard fork occurred as a result, those that wanted to erase the attack from history would do so and stay under the name "Ethereum", while those that were fine with the attack being in the blockchain's history kept it and went under the name "Ethereum Classic". 
+
+## EIP 1559{#eip-1559}
+
+**Ethereum Improvement Proposal (EIP) 1559** is part of the **London [hard fork](/glossary/forks)** and is set to take place on July 14, 2021, along with EIPs 3198, 3529, 3541, and 3554 as a step towards ETH 2.0. EIP 1559 in particular has grown to be quite controversial among miners, as it imposes a change to the fee structure of the Ethereum network. As it currently stands, fees go to the miners, but in the proposed changes there would be a base fee set by an algorithm in accordance to adjusting block sizes (also part of the London hard fork) and an option for users to tip miners. The base fee for each transaction would be burned, or removed from the total supply, putting some deflationary pressure on ETH. With fees making up a large percentage of the profits miners make, the proposal has faced some backlash and leaves open the possibility for a new version of Ethereum if miners don't get on board.
+
 
 ## Ethereum 2.0{#ethereum-2}
 
