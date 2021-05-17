@@ -2,7 +2,7 @@
 title: Ethereum
 description: Ethereum is a blockchain, cryptocurrency, and software platform where smart contracts and Dapps are built and used.
 published: true
-date: 2021-05-16T00:20:35.621Z
+date: 2021-05-17T16:44:19.538Z
 tags: ethereum
 editor: markdown
 dateCreated: 2021-03-12T16:43:49.060Z
@@ -24,7 +24,9 @@ Ethereum blocks are visualized on [TxStreet](https://www.txstreet.com) as blue b
 
 Ethereum's blockchain currently uses a [Proof-of-Work](/en/glossary/consensus-algorithms/#proof-of-work) [consensus-algorithm](/en/glossary/consensus-algorithms) to process blocks and distribute ETH, although they are actively making the switch to [Proof-of-Stake](/en/glossary/consensus-algorithms/#proof-of-stake) for [Ethereum 2.0](#ethereum-2). This means that while Ethereum uses miners like [Bitcoin](#bitcoin) does for now, they will soon use validators that stake, or put forth ETH to create blocks and be rewarded in ETH. The reason for this switch is to make Ethereum scalable as the amount of users increases, and some things to look forward to are Ethereum being more energy efficient, more decentralized, having reduce hardware requirements, introducing shard chains, and achieving lower gas prices (which have had a recent surge, in part due to the [MEV crisis](/en/glossary/mining/#mev)).
 
-Ether, the currency, has many denominations but the most commonly known is **Gwei** for its use in simplifying transaction fees, known on the Ethereum blockchain as **gas fees**. Gas is used to pay back miners for computing power costs, and everything on the Ethereum blockchain or using the EVM requires some amount of gas (larger contracts costing more). One Gwei is worth 0.000000001 ETH, so instead of saying that your gas costs 0.000000004 ETH, you could say that your **gas price** is 4 Gwei. Gas price is determined by the amount of computing power required to process smart contracts and transactions, but users can adjust their gas price to get their transaction confirmed faster or slower depending on how long they want to wait. During heavy network congestion gas has been known to get extremely expensive, like in February of 2021 when the average gas price was nearly $40. 
+## What are Gas and Gwei?{#gas-gwei}
+
+Ether, the currency, has many denominations but the most commonly known is **Gwei** for its use in simplifying transaction fees, known on the Ethereum blockchain as **gas fees**. Gas is used to pay back miners for computing power costs, and everything on the Ethereum blockchain or using the EVM requires some amount of gas (larger smart contracts costing more). One Gwei is worth 0.000000001 ETH, so instead of saying that your gas costs 0.000000004 ETH, you could say that your **gas price** is 4 Gwei. Gas price is determined by miners and the amount of computing power required from them to process smart contracts and transactions, but users can adjust the gas price to get their transaction confirmed faster or slower depending on how long they want to wait. Miners are more likely to pick transactions with higher gas prices, since they keep those fees. During heavy network congestion gas has been known to get extremely expensive, like in February of 2021 when the average gas price was nearly $40. 
 
 ## Ethereum's History{#ethereum-history}
 
