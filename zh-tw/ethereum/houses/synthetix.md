@@ -2,7 +2,7 @@
 title: Synthetix
 description:
 published: true
-date: 2021-03-15T23:22:21.355Z
+date: 2021-05-07T05:23:13.751Z
 tags: ethereum, synthetix
 editor: markdown
 dateCreated: 2021-03-15T23:22:21.355Z
@@ -12,8 +12,8 @@ dateCreated: 2021-03-15T23:22:21.355Z
 
 ## Summary
 
-<a href="https://www.synthetix.io/" target="_blank">Synthetix</a> is a decentralized platform on Ethereum for the creation of Synths: on-chain synthetic assets that track the value of real-world assets. Born as stablecoin project Havven, Synthetix rebranded and expanded its scope prior to launching on mainnet in February 2019. As of May 2019, the Synthetix platform supports over 20 Synths representing fiat currencies, commodities (e.g., gold), and cryptoassets. Stocks, indices, and other derivatives are expected to be added soon. Born as stablecoin project Havven, Synthetix rebranded and expanded its scope prior to launching on mainnet in February 2019. As of May 2019, the Synthetix platform supports over 20 Synths representing fiat currencies, commodities (e.g., gold), and cryptoassets. Stocks, indices, and other derivatives are expected to be added soon.
+[Synthetix](https://www.synthetix.io/) is a decentralized platform on Ethereum intended for the creation of Synths: on-chain synthetic assets that track the value of real-world assets. Born as stablecoin project Havven, Synthetix rebranded and expanded its scope prior to launching on the Ethereum mainnet in February of 2019. As of May of 2021, the Synthetix platform supports over 50 Synths representing fiat currencies, commodities (e.g., gold), cryptoassets, stocks, and indices, although they plan to add more forms of derivatives as time progresses.
 
 ## Config
 
-Below is a json config file used by TxStreet, including a list of contracts. [synthetix.json](/ethereum/houses/synthetix.json) [synthetix.json](/ethereum/houses/synthetix.json)
+Below is a json config file used by TxStreet, including a list of contracts. [synthetix.json](/ethereum/houses/synthetix.json) [synthetix.json](/ethereum/houses/synthetix.json) [synthetix.json](/ethereum/houses/synthetix.json)
