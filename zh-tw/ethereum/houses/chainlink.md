@@ -2,7 +2,7 @@
 title: Chainlink
 description:
 published: true
-date: 2021-03-15T22:11:29.840Z
+date: 2021-05-07T05:04:08.374Z
 tags: ethereum, chainlink
 editor: markdown
 dateCreated: 2021-03-15T22:11:29.840Z
@@ -16,4 +16,4 @@ The <a href="https://chain.link/" target="_blank">Chainlink</a> network provides
 
 ## Config
 
-Below is a json config file used by TxStreet, including a list of contracts. [chainlink.json](/ethereum/houses/chainlink.json) [chainlink.json](/ethereum/houses/chainlink.json)
+Below is a json config file used by TxStreet, including a list of contracts. [chainlink.json](/ethereum/houses/chainlink.json) [chainlink.json](/ethereum/houses/chainlink.json) [chainlink.json](/ethereum/houses/chainlink.json)
