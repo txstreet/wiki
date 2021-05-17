@@ -2,7 +2,7 @@
 title: Blockchain Glossary
 description: The TxStreet Glossary, simplifying the most complex cryptocurrency related terms.
 published: true
-date: 2021-05-17T16:22:25.917Z
+date: 2021-05-17T16:22:53.678Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-14T03:14:30.346Z
@@ -24,8 +24,8 @@ Coming Soon
 - [Genesis Block](/glossary/blockchain/#genesis-block)
 - [Mempool](/glossary/mempool)
 - [Mining](/glossary/mining)
-- [Oracles](glossary/blockchain/#oracle)
-- [Smart Contracts](glossary/blockchain/#smart-contract)
+- [Oracles](/glossary/blockchain/#oracle)
+- [Smart Contracts](/glossary/blockchain/#smart-contract)
 {.links-list}
 
 ## Cryptocurrency
