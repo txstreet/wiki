@@ -2,7 +2,7 @@
 title: Balancer
 description:
 published: true
-date: 2021-03-15T22:08:39.790Z
+date: 2021-05-07T05:01:34.948Z
 tags: ethereum, balancer
 editor: markdown
 dateCreated: 2021-03-15T22:08:39.790Z
@@ -12,7 +12,7 @@ dateCreated: 2021-03-15T22:08:39.790Z
 
 ## Summary
 
-<a href="https://balancer.finance" target="_blank">Balancer</a> is a protocol for multi-token automated market-making. It enables portfolio owners to create Balancer Pools and traders to trade against these pools. Balancer Pools contain 2 or more tokens each with arbitrary weights of the total pool value. The pools provide the Balancer Protocol with liquidity, and charge traders a trading fee in return. Pools can be considered automated market-makers since anyone can trade between any two tokens present in any pool.
+<a href="https://balancer.finance" target="_blank">Balancer</a> is a protocol for multi-token automated market-making. It enables portfolio owners to create Balancer Pools and traders to trade against these pools. Balancer Pools contain 2 or more tokens each with arbitrary weights of the total pool value. Liquidity providers are rewarded in the protocol's governance token, BAL, and can use it to submit and vote on proposals to the Balancer ecosystem.
 
 ## Config
 
