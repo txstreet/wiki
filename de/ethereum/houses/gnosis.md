@@ -2,7 +2,7 @@
 title: Gnosis
 description:
 published: true
-date: 2021-03-15T23:03:53.607Z
+date: 2021-05-07T05:13:09.948Z
 tags: ethereum, gnosis
 editor: markdown
 dateCreated: 2021-03-15T23:03:53.607Z
