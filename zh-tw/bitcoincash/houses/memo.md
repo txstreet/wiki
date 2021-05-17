@@ -12,9 +12,8 @@ dateCreated: 2021-03-15T00:44:40.998Z
 
 ## Summary
 
-Memo is a social media protocol built on Bitcoin Cash. Social media sites based on the protocol include [memo.cash](https://memo.cash/) (closed source) and [member.cash](https://member.cash/) (open source). Social media sites based on the protocol include [memo.cash](https://memo.cash/) (closed source) and [member.cash](https://member.cash/) (open source).
-
+Memo is a social media protocol built on Bitcoin Cash. Social media sites based on the protocol include [memo.cash](https://memo.cash/) (closed source) and [member.cash](https://member.cash/) (open source). Social media sites based on the protocol include [memo.cash](https://memo.cash/) (closed source) and [member.cash](https://member.cash/) (open source). A software named [member](https://github.com/memberapp/memberapp.github.io) makes those actions easily accessible and understandable for social media sites based on the protocol. These include [memo.cash](https://memo.cash/) (closed source) and [member.cash](https://member.cash/) (open source).
 
 ## Config
 
-Below is a json config file used by TxStreet, including a list of contracts. [memo.json](/bitcoincash/houses/memo.json) [memo.json](/bitcoincash/houses/memo.json)
+Below is a json config file used by TxStreet, including a list of contracts. [memo.json](/bitcoincash/houses/memo.json) [memo.json](/bitcoincash/houses/memo.json) [memo.json](/bitcoincash/houses/memo.json)
