@@ -16,4 +16,4 @@ We've leveraged the power of smart contracts on Bitcoin Cash to usher in a new e
 
 ## Config
 
-Below is a json config file used by TxStreet, including a list of contracts. [anyhedge.json](/ethereum/houses/anyhedge.json) [anyhedge.json](/ethereum/houses/anyhedge.json)
+Below is a json config file used by TxStreet, including a list of contracts. [anyhedge.json](/ethereum/houses/anyhedge.json) [anyhedge.json](/ethereum/houses/anyhedge.json) [anyhedge.json](/ethereum/houses/anyhedge.json)
