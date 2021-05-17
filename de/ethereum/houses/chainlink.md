@@ -2,7 +2,7 @@
 title: Chainlink
 description:
 published: true
-date: 2021-03-15T22:11:29.840Z
+date: 2021-05-07T05:04:08.374Z
 tags: ethereum, chainlink
 editor: markdown
 dateCreated: 2021-03-15T22:11:29.840Z
