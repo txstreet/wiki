@@ -12,7 +12,7 @@ dateCreated: 2021-03-15T23:54:38.676Z
 
 ## Summary
 
-We've leveraged the power of smart contracts on Bitcoin Cash to usher in a new era of trustless and non-custodial trading. Think the Japanese yen will rise in relation to BCH? <a href="https://anyhedge.com/" target="_blank">AnyHedge</a> allows you to open a position and find out.
+[AnyHedge](https://anyhedge.com/), the first DeFi application to be built on Bitcoin Cash (and very similar to Ethereum's Synthetix), is a decentralized platform intended to give users the the availability of hedging or longing their BCH against synthetic assets.
 
 ## Config
 
