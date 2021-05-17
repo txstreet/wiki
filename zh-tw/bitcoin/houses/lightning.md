@@ -17,4 +17,4 @@ The [Lightning Network](https://lightning.network/) is a decentralized network u
 
 ## Config{#config}
 
-Below is a json config file used by TxStreet, including a list of contracts. [lightning.json](/bitcoin/houses/lightning.json) [lightning.json](/bitcoin/houses/lightning.json)
+Below is a json config file used by TxStreet, including a list of contracts. [lightning.json](/bitcoin/houses/lightning.json) [lightning.json](/bitcoin/houses/lightning.json) [lightning.json](/bitcoin/houses/lightning.json)

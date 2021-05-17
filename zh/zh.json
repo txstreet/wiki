@@ -206,14 +206,15 @@
 		"tut-5": "Tutorial Complete. Thank you!<br/>Closing...",
 		"view-on": "View on @:brand.opensea",
 		"waiting-nonce": "Waiting on transaction with lower account nonce.",
-		"what-are": "What are @:general.char?"
+		"what-are": "What are @:general.char?",
+		"low-fee-line": "Low Fee Line"
 	},
 	"settings": {
 		"animations": "Animations",
 		"antialias": "Smooth graphics (antialias)",
 		"browser-notifications": "Browser notifications",
 		"fps": "Frames per second",
-		"max-txs-memory": "Max Txs In Memory",
+		"max-buses": "Max Buses",
 		"open-roofs": "Open Bus Roofs",
 		"res-width": "Resolution Width",
 		"theme": "Theme"

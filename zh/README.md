@@ -1,10 +1,10 @@
 # TxStreet Wiki
 
-Welcome to the TxStreet Wiki. Please consider contributing to the content. Please consider contributing to the content.
+Welcome to the TxStreet Wiki. Please consider contributing to the content. Please consider contributing to the content. Please consider contributing to the content.
 
 ## Contribute{#contribute}
 
-Anyone can contribute to the core English Wiki by editing the (.md) files directly on GitHub or on your own computer. Take the following steps: Take the following steps:
+Anyone can contribute to the core English Wiki by editing the (.md) files directly on GitHub or on your own computer. Take the following steps: Take the following steps: Take the following steps:
 
 1. Sign up for GitHub and login.
 2. Click the "Fork" button at the top right of [this page](https://github.com/txstreet/wiki).
@@ -13,9 +13,9 @@ Anyone can contribute to the core English Wiki by editing the (.md) files direct
 5. Create a "Pull Request" to submit your changes back to main branch.
 6. Wait for an editor to review and approve your changes.
 
-Please keep the structure of each page intact unless you ask for permission beforehand. Please keep the structure of each page intact unless you ask for permission beforehand. Most pages will have a "Summary" section which will be ELI5 (Explain like I'm five).
+Please keep the structure of each page intact unless you ask for permission beforehand. Please keep the structure of each page intact unless you ask for permission beforehand. Most pages will have a "Summary" section which will be ELI5 (Explain like I'm five). Most pages will have a "Summary" section which will be ELI5 (Explain like I'm five).
 
-Every h2 header (##) needs to have an id to maintain linking consistency across locales. This is done with the following format: `## Title{#title}` This is done with the following format: `## Title{#title}`
+Every h2 header (##) needs to have an id to maintain linking consistency across locales. This is done with the following format: `## Title{#title}` This is done with the following format: `## Title{#title}` This is done with the following format: `## Title{#title}`
 
 ## Translations{#translations}
 

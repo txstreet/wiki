@@ -12,7 +12,7 @@ dateCreated: 2021-03-15T00:25:00.998Z
 
 ## Summary
 
-Tokenize anything with <a href="https://simpleledger.cash/" target="_blank">Simple Ledger Protocol (SLP)</a> - an emerging standard protocol for issuing secure tokens on the Bitcoin Cash blockchain.
+Tokenize anything with <a href="https://simpleledger.cash/" target="_blank">Simple Ledger Protocol (SLP)</a> - an emerging standard protocol for issuing secure tokens on the Bitcoin Cash blockchain. SLP can be used to create both fungible and non-fungible tokens in an easy and permissionless fashion.
 
 ## Config
 
