@@ -14,6 +14,10 @@ Bitcoin is the first ever blockchain and cryptocurrency, created by an individua
 
 Bitcoin blocks are visualized on [TxStreet](https://www.txstreet.com) as orange buses with the Bitcoin logo, the block number, and the transaction fee associated.
 
+- [Houses](/bitcoin/houses)
+- [Live Stats](/bitcoin/live-stats)
+- [Segwit](/bitcoin/segwit)
+{.links-list}
 ## What is Bitcoin?{#bitcoin}
 
 **Bitcoin (BTC)** is the name of the first blockchain and its native cryptocurrency. The Bitcoin blockchain, which is a global revolution in information keeping and the first true peer-to-peer financial network, uses a [Proof-of-Work](/en/blockchain/consensus-algorithms) [consensus-algorithms](/en/blockchain/consensus-algorithms) to prevent double spending and ensure the data contained within transactions is accurate, secure, and can be tracked forever.
