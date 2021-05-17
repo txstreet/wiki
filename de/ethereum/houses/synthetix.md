@@ -2,7 +2,7 @@
 title: Synthetix
 description:
 published: true
-date: 2021-03-15T23:22:21.355Z
+date: 2021-05-07T05:23:13.751Z
 tags: ethereum, synthetix
 editor: markdown
 dateCreated: 2021-03-15T23:22:21.355Z
