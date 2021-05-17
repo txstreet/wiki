@@ -206,14 +206,15 @@
 		"tut-5": "Tutorial abgeschlossen. Vielen Dank!<br/>Schließen...",
 		"view-on": "Ansicht auf @:brand.opensea",
 		"waiting-nonce": "Warten auf Transaktionen mit niedrigerem Konto-Nonce.",
-		"what-are": "Was sind @:general.char?"
+		"what-are": "Was sind @:general.char?",
+		"low-fee-line": "Low Fee Line"
 	},
 	"settings": {
 		"animations": "Animationen",
 		"antialias": "Glatte Grafik (Antialias)",
 		"browser-notifications": "Browser-Benachrichtigungen",
 		"fps": "Frames pro Sekunde",
-		"max-txs-memory": "Maximale Transaktionen im Speicher",
+		"max-buses": "Max Buses",
 		"open-roofs": "Offene Bus-Dächer",
 		"res-width": "Auflösungsbreite",
 		"theme": "Thema"
