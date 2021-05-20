@@ -2,7 +2,7 @@
 title: Monero
 description: Monero is a privacy focused blockchain and cryptocurrency.
 published: true
-date: 2021-05-20T17:05:00.086Z
+date: 2021-05-20T17:07:17.473Z
 tags: monero
 editor: markdown
 dateCreated: 2021-04-09T15:14:07.339Z
@@ -22,9 +22,7 @@ Monero blocks are visualized on [TxStreet](https://www.txstreet.com) as orange b
 
 To achieve true privacy, Monero nodes hold a copy of an obfuscated public ledger, which means that the sender, receiver, and amount of every transaction are hidden. Monero also utilizes some mechanisms to further ensure the privacy of transactions; [Ring signatures](#ring-signature) make it impossible for outside observers to see the sender; One-time [stealth addresses](#stealth-address) are used to hide the receiver, and [Ring CT](#ring-ct) is used to hide the amount of each transaction. Other privacy coins like [Dash](https://www.dash.org/) and [Zcash](https://z.cash/) give users the option to make transactions private, but Monero ensures that every transaction is private, other than the block rewards paid out to miners. Users on Monero have the option of giving out a viewkey, which enables others to view their balance, but without any access or privileges.
 
-[](https://www.getmonero.org/media/Monero%20-%20The%20Essentials.m4v)
-
-<video src="https://www.getmonero.org/media/Monero%20-%20The%20Essentials.m4v" loop='true' autoplay='false' muted='false'></video>
+<video src="https://www.getmonero.org/media/Monero%20-%20The%20Essentials.m4v" loop='false' autoplay='false' muted='false'></video>
 
 
 ## Monero's History{#monero-history}
