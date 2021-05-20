@@ -2,7 +2,7 @@
 title: Monero
 description: Monero is a privacy focused blockchain and cryptocurrency.
 published: true
-date: 2021-05-11T07:41:03.164Z
+date: 2021-05-20T17:05:00.086Z
 tags: monero
 editor: markdown
 dateCreated: 2021-04-09T15:14:07.339Z
@@ -18,7 +18,13 @@ Monero blocks are visualized on [TxStreet](https://www.txstreet.com) as orange b
 
 ## What is Monero?{#monero}
 
-**Monero (XMR)** is a private blockchain created with the goal of solving [Bitcoin's](/en/bitcoin) biggest problems and creating a truly private and untraceable currency. To achieve a more level playing field in mining, Monero has been tweaking with Bitcoin's [Proof-of-Work](/en/blockchain/consensus-algorithms/#proof-of-work) [consensus algorithm](/en/blockchain/consensus-algorithms) throughout its development and currently uses **RandomX** (formerly known as CryptoNote), which makes the network more decentralized by being resistant to mining from powerful mining rigs called ASICs. To achieve true privacy, Monero nodes hold a copy of an obfuscated public ledger, which means that the sender, receiver, and amount of every transaction are hidden. Monero also utilizes some mechanisms to further ensure the privacy of transactions; [Ring signatures](#ring-signature) make it impossible for outside observers to see the sender: One-time [stealth addresses](#stealth-address) are used to hide the receiver, and [Ring CT](#ring-ct) is used to hide the amount of each transaction. Other privacy coins like [Dash](https://www.dash.org/) and [Zcash](https://z.cash/) give users the option to make transactions private, but Monero ensures that every transaction is private, other than the block rewards paid out to miners.
+**Monero (XMR)** is a private blockchain created with the goal of solving [Bitcoin's](/en/bitcoin) biggest problems and creating a truly private and untraceable currency. To achieve a more level playing field in mining, Monero has been tweaking with Bitcoin's [Proof-of-Work](/en/glossary/consensus-algorithms/#pow) [consensus algorithm](/en/glossary/consensus-algorithms) throughout its development and currently uses **RandomX** (formerly known as CryptoNote), which makes the network more decentralized by being resistant to mining from powerful mining rigs called ASICs. In hopes of scaling their blockchain, Monero developers implemented a dynamic blocksize. Every 100 blocks, the block size adjusts accordingly to meet the needs of the network. Fees are measured in Nanoneros/Byte, and one Nanonero is equal to .000000001 Monero, the equivalent of Bitcoin's Satoshis and [Ethereum's](/en/ethereum) [Gwei](/en/ethereum/#gas-gwei).
+
+To achieve true privacy, Monero nodes hold a copy of an obfuscated public ledger, which means that the sender, receiver, and amount of every transaction are hidden. Monero also utilizes some mechanisms to further ensure the privacy of transactions; [Ring signatures](#ring-signature) make it impossible for outside observers to see the sender; One-time [stealth addresses](#stealth-address) are used to hide the receiver, and [Ring CT](#ring-ct) is used to hide the amount of each transaction. Other privacy coins like [Dash](https://www.dash.org/) and [Zcash](https://z.cash/) give users the option to make transactions private, but Monero ensures that every transaction is private, other than the block rewards paid out to miners. Users on Monero have the option of giving out a viewkey, which enables others to view their balance, but without any access or privileges.
+
+[](https://www.getmonero.org/media/Monero%20-%20The%20Essentials.m4v)
+
+<video src="https://www.getmonero.org/media/Monero%20-%20The%20Essentials.m4v" loop='true' autoplay='false' muted='false'></video>
 
 
 ## Monero's History{#monero-history}
