@@ -2,19 +2,19 @@
 title: Non-Fungible Tokens
 description: Non-Fungible Tokens are file-like tokens that can't be traded for eachother and are used to represent ownership of digital or real world items.
 published: true
-date: 2021-03-26T14:29:21.669Z
-tags: opensea, nft, blockchain, mintable, chainlink
+date: 2021-05-21T16:50:25.019Z
+tags: chainlink, opensea, blockchain, nft, mintable
 editor: markdown
-dateCreated: 2021-03-17T13:58:30.183Z
+dateCreated: 2021-05-14T03:15:57.215Z
 ---
 
 ## Summary{#summary}
 
 Non-Fungible Tokens, commonly referred to as NFTs, are non-denominational tokens (think of them like files on a blockchain) that represent ownership of assets in the digital and real world. They have unique characteristics that can be verified and tracked throughout the blockchain, along with the NFT's owner. This ensures no copycats have any validity - should someone decide to download the same file and tokenize it themself, blockchain records will show theirs is not the original. If it can be put on a computer or digitized in any way, then it can be tokenized and therefore turned into a NFT.
 
-<video src="https://txstreet.com/static/img/items/snowman.mp4" loop='true' autoplay='true' muted='true'></video> <video src="https://txstreet.com/static/img/items/santa.mp4" loop='true' autoplay='true' muted='true'></video> <video src="https://txstreet.com/static/img/items/helper.mp4" loop='true' autoplay='true' muted='true'></video>
+<video src="https://txstreet.com/static/img/items/snowman.mp4" loop='true' autoplay='true' muted='true'></video> <video src="https://txstreet.com/static/img/items/moonboy.mp4" loop='true' autoplay='true' muted='true'></video> <video src="https://txstreet.com/static/img/items/alien.mp4" loop='true' autoplay='true' muted='true'></video>
 
-Pictured above are the Premium [TxStreet](https://www.txstreet.com) Christmas NFT's.
+Pictured above are some of the [TxStreet](https://www.txstreet.com) NFT's known as [MoonHeads](http://moonheads.io), which enable each owner the unique ability to advertise on TxStreet and customize their transaction tracking experience.
 
 To track the top NFT collections, sales, and marketplaces by volume, click [here](https://dappradar.com/nft)
 
