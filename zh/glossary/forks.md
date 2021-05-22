@@ -2,10 +2,10 @@
 title: Forks
 description: Forks are updates to a blockchain that result as a split of the users and their opinions on moving forward.
 published: true
-date: 2021-03-24T04:50:42.034Z
+date: 2021-05-22T08:26:35.189Z
 tags: ethereum, bitcoin, bitcoin-cash, blockchain, monero
 editor: markdown
-dateCreated: 2021-03-21T12:43:19.870Z
+dateCreated: 2021-05-14T03:15:45.838Z
 ---
 
 ## Summary{#summary}
@@ -14,7 +14,7 @@ Hard forks and soft forks are crucial in moving forward with updates and changes
 
 ## Hard Forks{#hard-forks}
 
-Hard forks are backwards-incompatible software updates (meaning they terminate connection between new and old nodes) that typically occur when the people involved in the decision-making process of a project or network disagree on an update or if an update is rolled out that conflicts with the rules. When this happens, the blockchain will split in two, purposely ceasing communication between differentiated nodes. One blockchain will keep the original rules, and the other will adopt the new rules. Everything that occurred before the fork will remain on the blockchain records of both forks, but everything after will only be found on the fork that it occurs. This means that whatever coins you had on the original blockchain, you'll have on the new blockchain as well.
+Hard forks are backwards-incompatible software updates, meaning they terminate connection between new and old nodes. If members of the network can't agree to move forward with the update, the blockchain will split in two, purposely ceasing communication between differentiated nodes. One blockchain will keep the original rules, and the other will adopt the new rules. Everything that occurred before the fork will remain on the blockchain records of both forks, but everything after will only be found on the fork that it occurs. This means that whatever coins you had on the original blockchain, you'll have on the new blockchain as well.
 
 In August of 2017, Bitcoin experienced one of the more well-known hard forks, where users that disagreed with the current approach to scaling came up with a new approach - to increase the block size. Those that supported the increase of block sizes migrated onto the Bitcoin Cash blockchain, and those that opposed stayed on the Bitcoin blockchain, later rolling out their own scaling solution.
 
