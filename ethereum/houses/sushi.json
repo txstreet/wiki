@@ -6,6 +6,7 @@
   "dappReviewIds": [13690],
   "stateOfTheDappsIds": ["sushiswap"],
   "dappRadarIds": ["/exchanges/sushiswap"],
+  "etherscanIds": ["sushiswap"],
   "contracts": [
     { "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2" },
     { "address": "0xc2edad668740f1aa35e4d8f227fb8e17dca888cd" },
@@ -972,6 +973,7 @@
     { "address": "0x9a061c870d9dc4b6b83d276035bc04000c889677" },
     { "address": "0x7401b004f6e1553e33fd0e7a9eb67cba6daf94db" },
     { "address": "0x9a9b0098442dfa819d9e073a6cbf5be7928ec06f" },
-    { "address": "0x126ff5784e847b19b8a0b00f3ed4ebcae6106f38" }
+    { "address": "0x126ff5784e847b19b8a0b00f3ed4ebcae6106f38" },
+    { "address": "0xf73b31c07e3f8ea8f7c59ac58ed1f878708c8a76" }
   ]
 }

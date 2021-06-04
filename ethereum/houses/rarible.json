@@ -1,0 +1,21 @@
+{
+  "name": "rarible",
+  "title": "Rarible",
+  "tracked": true,
+  "colors": ["feda03", "000000"],
+  "stateOfTheDappsIds": ["rarible"],
+  "dappRadarIds": ["/marketplaces/rarible"],
+  "contracts": [
+    { "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf" },
+    { "address": "0xf79ab01289f85b970bf33f0543e41409ed2e1c1f" },
+    { "address": "0xf2ee97405593bc7b6275682b0331169a48fedec7" },
+    { "address": "0x6a5ff3ceecae9ceb96e6ac6c76b82af8b39f0eb3" },
+    { "address": "0x60f80121c31a0d46b5279700f9df786054aa5ee5" },
+    { "address": "0xd07dc4262bcdbf85190c01c996b4c06a461d2430" },
+    { "address": "0xa5af48b105ddf2fa73cbaac61d420ea31b3c2a07" },
+    { "address": "0x8c530a698b6e83d562db09079bc458d4dad4e6c5" },
+    { "address": "0x131AEBbfe55bcA0C9EAAD4Ea24D386C5C082dD58" },
+    { "address": "0x93F2a75d771628856f37f256dA95e99Ea28AaFbE" },
+    { "address": "0xcd4ec7b66fbc029c116ba9ffb3e59351c20b5b06" }
+  ]
+}

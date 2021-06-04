@@ -6,6 +6,7 @@
   "dappReviewIds": [517],
   "stateOfTheDappsIds": ["axie-infinity"],
   "dappRadarIds": ["/games/axie-infinity", "/marketplaces/axie-marketplace"],
+  "etherscanIds": ["axie-infinity"],
   "contracts": [
     { "address": "0x2299a91cc0bffd8c7f71349da8ab03527b79724f" },
     { "address": "0xf4985070ce32b6b1994329df787d1acc9a2dd9e2" },
@@ -46,6 +47,15 @@
     { "address": "0xa96660f0e4a3e9bc7388925d245a6d4d79e2125" },
     { "address": "0x8c811e3c958e190f5ec15fb376533a3398620500" },
     { "address": "0x1A2a1c938CE3eC39b6D47113c7955bAa9DD454F2" },
-    { "address": "0x94b3257107b6a85fb4d8759947825f8c992da0f9" }
+    { "address": "0x94b3257107b6a85fb4d8759947825f8c992da0f9" },
+    { "address": "0xf5d669627376ebd411e34b98f19c868c8aba5ada" },
+    { "address": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25" },
+    { "address": "0x73b1714fb3bfaefa12f3707befcba3205f9a1162" },
+    { "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b" },
+    { "address": "0x01bf1d7c5e192313c26414e134584275f46271cf" },
+    { "address": "0xea1aa8035b766562e2bea7e63a4a1949f2bea31b" },
+    { "address": "0x93a0d0b23c3d045f395e26850c1b64df7f3ab783" },
+    { "address": "0x65919fb2fea8a131129badec56e126ecc1bea979" },
+    { "address": "0xf5997bea71e1b66434eff247b3c584508df69895" }
   ]
 }

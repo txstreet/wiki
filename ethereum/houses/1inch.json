@@ -6,6 +6,7 @@
   "dappReviewIds": [11728],
   "stateOfTheDappsIds": ["1inch-exchange"],
   "dappRadarIds": ["/exchanges/1inch-exchange"],
+  "etherscanIds": ["1inch-exchange"],
   "contracts": [
     { "address": "0x111111125434b319222cdbf8c261674adb56f3ae" },
     { "address": "0xee7f212545b3c388f8fd176f83bdff85f3dcea7d" },
@@ -25,6 +26,9 @@
     { "address": "0x52dd74d511753b464867d831f78dfcbf05d255d7" },
     { "address": "0xe00b75a94b444de64b308aa3d7a08b99d1ea1fb4" },
     { "address": "0x111111254b08ceeee8ad6ca827de9952d2a46781" },
-    { "address": "0x11111112542D85B3EF69AE05771c2dCCff4fAa26" }
+    { "address": "0x11111112542D85B3EF69AE05771c2dCCff4fAa26" },
+    { "address": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c" },
+    { "address": "0xdb38ae75c5f44276803345f7f02e95a0aeef5944" },
+    { "address": "0xe069cb01d06ba617bcdf789bf2ff0d5e5ca20c71" }
   ]
 }

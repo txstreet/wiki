@@ -6,6 +6,7 @@
   "dappReviewIds": [10102],
   "stateOfTheDappsIds": ["synthetix"],
   "dappRadarIds": ["/defi/synthetix"],
+  "etherscanIds": ["synthetix"],
   "contracts": [
     { "address": "0xd4fb1706ae549febec06bb7175b08010dd1b0c2e" },
     { "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f" },
@@ -325,6 +326,23 @@
     { "address": "0x05a9CBe762B36632b3594DA4F082340E0e5343e8" },
     { "address": "0xF61F4A57C63340ac1Fd75578ae878c8a263aeC06" },
     { "address": "0x62922670313bf6b41C580143d1f6C173C5C20019" },
-    { "address": "0xf02ce48fD47D7FA1B7a45a0444805d320D035775" }
+    { "address": "0xf02ce48fD47D7FA1B7a45a0444805d320D035775" },
+    { "address": "0xac1ed4fabbd5204e02950d68b6fc8c446ac95362" },
+    { "address": "0xdcb6a51ea3ca5d3fd898fd6564757c7aaec3ca92" },
+    { "address": "0x13c1542a468319688b89e323fe9a3be3a90ebb27" },
+    { "address": "0xeb3107117fead7de89cd14d463d340a2e6917769" },
+    { "address": "0xc746bc860781dc90bbfcd381d6a058dc16357f8d" },
+    { "address": "0x0bfdc04b38251394542586969e2356d0d731f7de" },
+    { "address": "0x49be88f0fcc3a8393a59d3688480d7d253c37d2a" },
+    { "address": "0x5ef0de4bd373e435341cd82311dfb13d5e8fdef5" },
+    { "address": "0xa6b5e74466edc95d0b6e65c5cbfca0a676d893a4" },
+    { "address": "0xfadafb3ece40eac206404b8df5af841f16f60e62" },
+    { "address": "0x5b1b5fea1b99d83ad479df0c222f0492385381dd" },
+    { "address": "0x86626e1bbbd0ce95ed52e0c5e19f371a6640b591" },
+    { "address": "0x9a4935749dbdfaf786a19df1c61a6d28b7a6cf94" },
+    { "address": "0xc704c9aa89d1ca60f67b3075d05fbb92b3b00b3b" },
+    { "address": "0xae55f163337a2a46733aa66da9f35299f9a46e9e" },
+    { "address": "0xae38b81459d74a8c16eaa968c792207603d84480" },
+    { "address": "0xdd87cbde3c1f8f728c7924c8c9c983af6dfcfea8" }
   ]
 }

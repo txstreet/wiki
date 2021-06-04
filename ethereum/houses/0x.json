@@ -6,6 +6,7 @@
   "dappReviewIds": [273],
   "stateOfTheDappsIds": ["0x"],
   "dappRadarIds": ["/other/0x-protocol"],
+  "etherscanIds": ["0x"],
   "contracts": [
     { "address": "0x61935cbdd02287b511119ddb11aeb42f1593b7ef" },
     { "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff" },
@@ -14,6 +15,28 @@
     { "address": "0x12459c951127e0c374ff9105dda097662a027093" },
     { "address": "0x4f833a24e1f95d70f028921e27040ca56e09ab0b" },
     { "address": "0xe41d2489571d322189246dafa5ebde1f4699f498" },
-    { "address": "0x5468a1dc173652ee28d249c271fa9933144746b1" }
+    { "address": "0x5468a1dc173652ee28d249c271fa9933144746b1" },
+    { "address": "0xa26e80e7dea86279c6d778d702cc413e6cffa777" },
+    { "address": "0x38a795580d0f687e399913a00ddef6a17612c722" },
+    { "address": "0xa3ac9844514b96bb502627ca9dceb57c4be289e3" },
+    { "address": "0x926a74c5c36adf004c87399e65f75628b0f98d2c" },
+    { "address": "0x206376e8940e42538781cd94ef024df3c1e0fd43" },
+    { "address": "0x95e6f48254609a6ee006f7d493c8e5fb97094cef" },
+    { "address": "0x7d3455421bbc5ed534a83c88fd80387dc8271392" },
+    { "address": "0xdffe798c7172dd6deb32baee68af322e8f495ce0" },
+    { "address": "0xba7f8b5fb1b19c1211c5d49550fcd149177a5eaf" },
+    { "address": "0x8da0d80f5007ef1e431dd2127178d224e32c2ef4" },
+    { "address": "0x2a17c35ff147b32f13f19f2e311446eeb02503f3" },
+    { "address": "0x7eefbd48fd63d441ec7435d024ec7c5131019add" },
+    { "address": "0xefc70a1b18c432bdc64b596838b4d138f6bc6cad" },
+    { "address": "0xef701d5389ae74503d633396c4d654eabedc9d78" },
+    { "address": "0x45797531b873fd5e519477a070a955764c1a5b07" },
+    { "address": "0x8ed95d1746bf1e4dab58d8ed4724f1ef95b20db0" },
+    { "address": "0xa6baaed2053058a3c8f11e0c7a9716304454b09e" },
+    { "address": "0xccc2431a7335f21d9268ba62f0b32b0f2efc463f" },
+    { "address": "0x3517b88c19508c08650616019062b898ab65ed29" },
+    { "address": "0x0ac2d6f5f5afc669d3ca38f830dad2b4f238ad3f" },
+    { "address": "0xa09329c6003c9a5402102e226417738ee22cf1f2" },
+    { "address": "0xf740b67da229f2f10bcbd38a7979992fcc71b8eb" }
   ]
 }

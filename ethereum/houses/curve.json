@@ -5,6 +5,7 @@
   "colors": ["a5a4ce", false],
   "dappReviewIds": [12665],
   "dappRadarIds": ["/defi/curve"],
+  "etherscanIds": ["curve-fi"],
   "contracts": [
     { "address": "0x7002B727Ef8F5571Cb5F9D70D13DBEEb4dFAe9d1" },
     { "address": "0xc1DB00a8E5Ef7bfa476395cdbcc98235477cDE4E" },
@@ -139,6 +140,10 @@
     { "address": "0xAEA6c312f4b3E04D752946d329693F7293bC2e6D" },
     { "address": "0x6828bcF74279eE32f2723eC536c22c51Eed383C6" },
     { "address": "0x4dC4A289a8E33600D8bD4cf5F6313E43a37adec7" },
-    { "address": "0x5f626c30EC1215f4EdCc9982265E8b1F411D1352" }
+    { "address": "0x5f626c30EC1215f4EdCc9982265E8b1F411D1352" },
+    { "address": "0xd533a949740bb3306d119cc777fa900ba034cd52" },
+    { "address": "0x02b3f51ac9202aa19be63d61a8c681579d6e3a51" },
+    { "address": "0x104c1e66c67c385e6095ffcc6227d75c761dc019" },
+    { "address": "0x26d9980571e77ffb0349f9c801dd7ca9951fb656" }
   ]
 }
