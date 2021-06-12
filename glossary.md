@@ -2,7 +2,7 @@
 title: Blockchain Glossary
 description: The TxStreet Glossary, simplifying the most complex cryptocurrency related terms.
 published: true
-date: 2021-05-17T16:59:44.071Z
+date: 2021-06-12T00:31:36.455Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-14T03:14:30.346Z
@@ -11,6 +11,7 @@ dateCreated: 2021-05-14T03:14:30.346Z
 # TxStreet Blockchain Glossary
 
 - [51% Attack](/glossary/consensus-algorithms/#51attack)
+- [Airdrops](/glossary/airdrops)
 - [Altcoins and Tokens](/glossary/altcoins-and-tokens)
 - [Block Explorer](/glossary/blockexplorer)
 - [Block Reward](/glossary/mining/#block-rewards-and-the-halving)
@@ -35,6 +36,7 @@ dateCreated: 2021-05-14T03:14:30.346Z
 - [Proof of Elapsed Time](/glossary/consensus-algorithms/#poet)
 - [Proof of Stake](/glossary/consensus-algorithms/#pos)
 - [Proof of Work](/glossary/consensus-algorithms/#pow)
+- [Rollups](/glossary/rollups)
 - [Segwit](/bitcoin/segwit)
 - [Smart Contracts](/glossary/blockchain/#smart-contract)
 - [The Halving](/glossary/mining/#block-rewards-and-the-halving)
