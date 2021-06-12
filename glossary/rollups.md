@@ -2,7 +2,7 @@
 title: Rollups
 description: Rollups are a type of Layer 2 scaling solution.
 published: true
-date: 2021-06-12T00:30:48.979Z
+date: 2021-06-12T00:35:18.209Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-12T00:30:48.979Z
@@ -10,7 +10,7 @@ dateCreated: 2021-06-12T00:30:48.979Z
 
 ## What are Rollups{#rollups}
 
-Rollups are currently the key layer 2 scaling solution for the [Ethereum](en/ethereum) network, and it appears that they will continue carrying the weight of scaling the network until [Ethereum 2](en/ethereum/#eth2) rolls out sharding. The other layer 2 scaling solutions like Plasma and Channels move both data and computation off-chain (full layer 2), and although Rollups also move computation off-chain, they keep some data per transaction on-chain, along with **state storage** (hybrid layer 2). This data is kept on chain to verify via consensus that any given piece of data is available, resulting in less data availability issues. State storage is the data (like account balances) that is inside of the Rollup, and it needs to be kept on-chain in the form of a smart contract so that the two can interact as information is processed. Rollups work by updating the smart contract kept on-chain in a fashion very similar to [mining](en/glossary/mining), but instead of pushing blocks to a blockchain, you push batches to a **state root** (the entire state of the system), which updates the layer 1 blockchain (in this case Ethereum).
+Rollups are currently the key layer 2 scaling solution for the [Ethereum](/en/ethereum) network, and it appears that they will continue carrying the weight of scaling the network until [Ethereum 2](/en/ethereum/#ethereum-2) rolls out sharding. The other layer 2 scaling solutions like Plasma and Channels move both data and computation off-chain (full layer 2), and although Rollups also move computation off-chain, they keep some data per transaction on-chain, along with **state storage** (hybrid layer 2). This data is kept on chain to verify via consensus that any given piece of data is available, resulting in less data availability issues. State storage is the data (like account balances) that is inside of the Rollup, and it needs to be kept on-chain in the form of a smart contract so that the two can interact as information is processed. Rollups work by updating the smart contract kept on-chain in a fashion very similar to [mining](/en/glossary/mining), but instead of pushing blocks to a blockchain, you push batches to a **state root** (the entire state of the system), which updates the layer 1 blockchain (in this case Ethereum).
 
 ## Types of Rollups{#rollup-types}
 
