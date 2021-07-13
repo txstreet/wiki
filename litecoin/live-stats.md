@@ -2,7 +2,7 @@
 title: Live Stats
 description: Descriptions of live how live statistics are calculated on TxStreet.
 published: true
-date: 2021-07-13T23:04:37.811Z
+date: 2021-07-13T23:07:34.710Z
 tags: litecoin
 editor: markdown
 dateCreated: 2021-07-13T23:04:37.811Z
@@ -28,9 +28,9 @@ Mempool Count measures the total number of pending transactions in the mempool o
 
 Median Estimated Fee (USD) measures the median fee in USD from new and unique transactions broadcasted within the last 5 minutes.
 
-## Median Fee (Sat/vByte)
+## Median Fee (Lit/vByte)
 
-Median Estimated Fee (Sat/Byte) measures the median fee in Satoshis per Byte (vByte for BTC) from new and unique transactions broadcasted within the last 5 minutes.
+Median Estimated Fee (Sat/Byte) measures the median fee in Litoshis per Byte (vByte for BTC) from new and unique transactions broadcasted within the last 5 minutes.
 
 ## vBytes Per Second
 
