@@ -2,7 +2,7 @@
 title: Gnosis
 description:
 published: true
-date: 2021-05-07T05:13:09.948Z
+date: 2021-07-08T13:03:53.607Z
 tags: ethereum, gnosis
 editor: markdown
 dateCreated: 2021-03-15T23:03:53.607Z
@@ -12,7 +12,10 @@ dateCreated: 2021-03-15T23:03:53.607Z
 
 ## Summary
 
-<a href="https://gnosis.io" target="_blank">Gnosis</a> Protocol is a fully permissionless DEX, which has been in research and development over the course of the last two years. Gnosis Protocol enables ring trades to maximize liquidity. Ring trades are order settlements which share liquidity across all orders, rather than a single token pair, and uniquely suited for trading prediction market tokens and the long tail of all tokenized assets.
+Gnosis Protocol v2 is a fully permissionless trading protocol that runs sophisticated batch auctions to allow users to get better on-chain prices and MEV protection for their trades. The protocol leverages an open competition of solvers to find the most optimal settlement solution for each batch. Within each batch, solvers can match traders directly without external liquidity via the Coincidence of Wants phenomena.  Additionally, if there is not enough liquidity inside a batch, solvers can tap into all available on-chain liquidity to facilitate the trading.
+
+[CowSwap](https://cowswap.exchange/#/swap) is the first trading interface built on top of Gnosis Protocol v2. It allows you to buy and sell tokens using gas-less orders that are settled peer-to-peer among it's users or into any on-chain liquidity source or , while providing MEV protection.
+
 
 ## Config
 
