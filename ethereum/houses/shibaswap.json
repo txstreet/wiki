@@ -1,5 +1,5 @@
 {
-  "name": "Shibaswap",
+  "name": "shibaswap",
   "title": "Shibaswap",
   "tracked": true,
   "colors": ["0d0e21", false],
@@ -36,6 +36,7 @@
 	{ "address": "0x5572e5e8119b6b747f286f3b63082a64f8b24856" },
 	{ "address": "0x29baa9ebcce8552b030bc1138d5d64893018b329" },
 	{ "address": "0x50b2c07f0269ebf0e906feeea9d5c90c42d9fd24" },
-	{ "address": "0x351c3702414c0f1d8acb0156fdc20aeda8d07a8f" }
+	{ "address": "0x351c3702414c0f1d8acb0156fdc20aeda8d07a8f" },
+	{ "address": "0xa2c14852974afE7755eA824260Ca5dF03B816458" }
   ]
 }
