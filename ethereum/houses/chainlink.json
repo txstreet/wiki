@@ -42,6 +42,12 @@
     { "address": "0xa7d38fbd325a6467894a13eefd977afe558bc1f0" },
     { "address": "0x9b4e2579895efa2b4765063310dc4109a7641129" },
     { "address": "0x6f61507f902e1c22bcd7aa2c0452cd2212009b61" },
-    { "address": "0x0133aa47b6197d0ba090bf2cd96626eb71ffd13c" }
+    { "address": "0x0133aa47b6197d0ba090bf2cd96626eb71ffd13c" },
+    { "address": "0xe0362f7445e3203a496f6f8b3d51cbb413b69be2" },
+    { "address": "0xbe6977e08d4479c0a6777539ae0e8fa27be4e9d6" },
+    { "address": "0xdad22a85ef8310ef582b70e4051e543f3153e11f" },
+    { "address": "0x98c63b7b319dfbdf3d811530f2ab9dfe4983af9d" },
+    { "address": "0x75398564ce69b7498da10a11ab06fd8ff549001c" },
+    { "address": "0x5560d001f977df5e49ead7ab0bdd437c4ee3a99e" }
   ]
 }
