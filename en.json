@@ -83,7 +83,7 @@
 		"supply-circulating": "@:btc.supply-circulating",
 		"tot": "@:btc.tot",
 		"tps": "@:btc.tps",
-		"volume-usd": "@:btc.vvolume-usd"
+		"volume-usd": "@:btc.volume-usd"
 	},
 	"eth": {
 		"ctps": "@:btc.ctps",
