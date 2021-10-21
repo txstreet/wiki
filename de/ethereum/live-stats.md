@@ -20,6 +20,10 @@ Confirmed transactions per second measures rate of confirmed transactions per se
 
 Mempool Count measures the total number of "pending" and "queued" transactions in the mempool on the TxStreet Ethereum node.
 
+## Base Fee
+
+Base Fee measures the current base fee by performing calculations with these three values from the previous block: base fee, gas used and gas limit. The calculations can be found on [this page](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md). Base Fee was implemented in EIP1559 in August 2021.
+
 ## Median Contract Fee
 
 Median Contract Fee measures the median fee (in USD) from new and unique transactions broadcasted within the last 5 minutes with a gasLimit greater than 21000. Since Ethereum gas fees are not exact until after the transaction is confirmed, this gas is first divided by "Median Tx Gas Used/Limit" for transactions with a gasLimit greater than 42000. This is why this number is an estimate and not exact.
@@ -43,6 +47,10 @@ Median Txs Per Block measures the median number of transactions included in each
 ## Gas Limit
 
 Block Gas Limit is the maximum amount of gas that a block is allowed to contain, using the sum of the gas used by all transactions in that block. The maximum gas limit is voted on by miners of the Ethereum Network.
+
+## Gas Target
+
+Gas target measures the current "long-term average target" of the "Gas Used" value in each block. This can be found be dividing the current "Gas Limit" by 2. Gas Target was implemented in EIP1559 in August 2021.
 
 ## Median Block Gas
 

@@ -2,7 +2,7 @@
 title: Houses
 description:
 published: true
-date: 2021-05-07T05:54:56.294Z
+date: 2021-08-14T14:19:51.194Z
 tags: ethereum
 editor: markdown
 dateCreated: 2021-03-12T15:54:22.129Z
@@ -50,3 +50,5 @@ dateCreated: 2021-03-12T15:54:22.129Z
 [![Uniswap](https://txstreet.com/static/img/singles/house_logos/uniswap.png)](/en/ethereum/houses/uniswap)
 ### [USDC](/en/ethereum/houses/usdc)
 [![Usdc](https://txstreet.com/static/img/singles/house_logos/usdc.png)](/en/ethereum/houses/usdc)
+### [Shibaswap](/en/ethereum/houses/shibaswap)
+[![Shibaswap](https://txstreet.com/static/img/singles/house_logos/shibaswap.png)](/en/ethereum/houses/shibaswap)
