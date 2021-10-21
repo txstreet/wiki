@@ -1,11 +1,11 @@
 {
   "name": "gnosis",
-  "title": "Gnosis",
+  "title": "Gnosis Protocol",
   "tracked": true,
   "colors": ["18394c", "lighten"],
-  "dappReviewIds": [12910],
+  "dappReviewIds": [12910, 162],
   "stateOfTheDappsIds": ["gnosis"],
-  "dappRadarIds": ["/exchanges/gnosis-protocol"],
+  "dappRadarIds": ["/exchanges/gnosis-protocol", "/defi/cowswap"],
   "etherscanIds": ["gnosis-safe"],
   "contracts": [
     { "address": "0x6F400810b62df8E13fded51bE75fF5393eaa841F" },
@@ -45,6 +45,14 @@
     { "address": "0x40a2accbd92bca938b02010e17a5b8929b49130d" },
     { "address": "0x59ad6735bcd8152b84860cb256dd9e96b85f69da" },
     { "address": "0x7cbb62eaa69f79e6873cd1ecb2392971036cfaa4" },
-    { "address": "0xf48f2b2d2a534e402487b3ee7c18c33aec0fe5e4" }
+    { "address": "0xf48f2b2d2a534e402487b3ee7c18c33aec0fe5e4" },
+    { "address": "0x3328f5f2cEcAF00a2443082B657CedEAf70bfAEf" },
+    { "address": "0xbbfB9a525ACdd2aB3A5Eb5fc9Ab8CF53b881000e" },
+    { "address": "0xFeDbc87123caF3925145e1bD1Be844c03b36722f" },
+    { "address": "0x7D8E28184408Bc4790E79Fd08ED67f7eBaCBEbcc" },
+    { "address": "0x9008D19f58AAbD9eD0D60971565AA8510560ab41" },
+    { "address": "0x9E7Ae8Bdba9AA346739792d219a808884996Db67" },
+    { "address": "0x2c4c28DDBdAc9C5E7055b4C863b72eA0149D8aFE" },
+    { "address": "0xC92E8bdf79f0507f65a392b0ab4667716BFE0110" }
   ]
 }

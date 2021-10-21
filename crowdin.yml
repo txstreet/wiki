@@ -3,6 +3,7 @@ files:
     ignore:
       - /zh*
       - /de/
+      - package.json
     translation: /%two_letters_code%/%two_letters_code%.json
   - source: '**.md'
     ignore:
