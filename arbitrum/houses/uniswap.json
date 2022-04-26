@@ -1,0 +1,26 @@
+{
+  "name": "uniswap",
+  "title": "Uniswap",
+  "tracked": true,
+  "colors": [
+    "2670e2",
+    "aacaff"
+  ],
+  "etherscanIds": [
+    "uniswap"
+  ],
+  "contracts": [
+    {
+      "address": "0x6c9fc64a53c1b71fb3f9af64d1ae3a4931a5f4e9"
+    },
+    {
+      "address": "0xc36442b4a4522e871399cd717abdd847ab11fe88"
+    },
+    {
+      "address": "0xe592427a0aece92de3edee1f18e0157c05861564"
+    },
+    {
+      "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
+    }
+  ]
+}
