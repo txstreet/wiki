@@ -1,23 +1,68 @@
 {
-  "name": "opensea",
-  "title": "OpenSea",
-  "tracked": true,
-  "colors": ["3291e9", "lighten"],
-  "dappReviewIds": [15],
-  "stateOfTheDappsIds": ["opensea"],
-  "dappRadarIds": ["/marketplaces/opensea"],
-  "etherscanIds": ["opensea"],
-  "contracts": [
-    { "address": "0x1f52b87c3503e537853e160adbf7e330ea0be7c4" },
-    { "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b" },
-    { "address": "0x23b45c658737b12f1748ce56e9b6784b5e9f3ff8" },
-    { "address": "0x78997e9e939daffe7eb9ed114fbf7128d0cfcd39" },
-    { "address": "0xe1fb91513f0b2b8627027b2702e1828f73ad7bc5" },
-    { "address": "0xa5409ec958c83c3f309868babaca7c86dcb077c1" },
-    { "address": "0x9c4e9cce4780062942a7fe34fa2fa7316c872956" },
-    { "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073" },
-    { "address": "0x495f947276749ce646f68ac8c248420045cb7b5e" },
-    { "address": "0x18c2e87d183c5338a9142f97db176f3832b1d6de" },
-    { "address": "0x7f268357a8c2552623316e2562d90e642bb538e5" }
-  ]
+    "name": "opensea",
+    "title": "OpenSea",
+    "tracked": true,
+    "colors": [
+        "3291e9",
+        "lighten"
+    ],
+    "dappReviewIds": [
+        15
+    ],
+    "stateOfTheDappsIds": [
+        "opensea"
+    ],
+    "dappRadarIds": [
+        "/marketplaces/opensea"
+    ],
+    "etherscanIds": [
+        "opensea"
+    ],
+    "contracts": [
+        {
+            "address": "0x1f52b87c3503e537853e160adbf7e330ea0be7c4"
+        },
+        {
+            "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b"
+        },
+        {
+            "address": "0x23b45c658737b12f1748ce56e9b6784b5e9f3ff8"
+        },
+        {
+            "address": "0x78997e9e939daffe7eb9ed114fbf7128d0cfcd39"
+        },
+        {
+            "address": "0xe1fb91513f0b2b8627027b2702e1828f73ad7bc5"
+        },
+        {
+            "address": "0xa5409ec958c83c3f309868babaca7c86dcb077c1"
+        },
+        {
+            "address": "0x9c4e9cce4780062942a7fe34fa2fa7316c872956"
+        },
+        {
+            "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073"
+        },
+        {
+            "address": "0x495f947276749ce646f68ac8c248420045cb7b5e"
+        },
+        {
+            "address": "0x18c2e87d183c5338a9142f97db176f3832b1d6de"
+        },
+        {
+            "address": "0x7f268357a8c2552623316e2562d90e642bb538e5"
+        },
+        {
+            "address": "0x00000000006c3852cbef3e08e8df289169ede581"
+        },
+        {
+            "address": "0x939c8d89ebc11fa45e576215e2353673ad0ba18a"
+        },
+        {
+            "address": "0x1e0049783f008a0085193e00003d00cd54003c71"
+        },
+        {
+            "address": "0x004c00500000ad104d7dbd00e3ae0a5c00560c00"
+        }
+    ]
 }

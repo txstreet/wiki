@@ -1,66 +1,192 @@
 {
-  "name": "axie",
-  "title": "Axie Infinity",
-  "tracked": true,
-  "colors": ["007dc1", false],
-  "dappReviewIds": [517],
-  "stateOfTheDappsIds": ["axie-infinity"],
-  "dappRadarIds": ["/games/axie-infinity", "/marketplaces/axie-marketplace"],
-  "etherscanIds": ["axie-infinity"],
-  "contracts": [
-    { "address": "0x2299a91cc0bffd8c7f71349da8ab03527b79724f" },
-    { "address": "0xf4985070ce32b6b1994329df787d1acc9a2dd9e2" },
-    { "address": "0x425372c0ac9D559a186A08A3854E0ddEA1a00d5C" },
-    { "address": "0xEBa02cfC36C01ACbE10F6bcb909B76749E54956a" },
-    { "address": "0xd7af30e9066Fd3B267Fe8b1c3e88192006d43486" },
-    { "address": "0x60ce035dc589c3fd185b224a7ca03c598948973b" },
-    { "address": "0xae8e74a21c25c22112749f7a9cd600d4b5cb2191" },
-    { "address": "0x37236CD05b34Cc79d3715AF2383E96dd7443dCF1" },
-    { "address": "0x92bF969865c80EDa082FD5D8b4E28da4d58e1C3a" },
-    { "address": "0x020f9e661e512132890d259dc363ed084cf4e5a6" },
-    { "address": "0x8138df138b415a6f85f09a0995fec0ce3b454b5d" },
-    { "address": "0x10e304a53351b272dc415ad049ad06565ebdfe34" },
-    { "address": "0x717ea56208b459ebeedb95c2cceee00b539c1205" },
-    { "address": "0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d" },
-    { "address": "0xd6115822be14782310b00557c52d28257a952be3" },
-    { "address": "0x3d5be9a472d6b5c8d45b4b3a3bffb80e0c52ef15" },
-    { "address": "0x436fB447a25D90965B6311e931682f7279D03226" },
-    { "address": "0x99ff9f4257D5b6aF1400C994174EbB56336BB79F" },
-    { "address": "0x7a11462A2adAed5571b91e34a127E4cbF51b152c" },
-    { "address": "0x0c7cF86188632e16AF00415214155950684466A8" },
-    { "address": "0x71FfC95Ca3BcEbF26024f689F40006182916167f" },
-    { "address": "0x9b1d9c45d9da03997d7850b4c90285c538d77233" },
-    { "address": "0x60dbf8e1cac4e8d318a2c655d3136f9343ee386a" },
-    { "address": "0x01AAc5236Ad205ebBe4F6819bC64eF5BeF40b71c" },
-    { "address": "0xb28a3dd24036151c819c6d401f7a222d9aa3671b" },
-    { "address": "0xf429b7270f7078d5561789c15d301692e32b1e48" },
-    { "address": "0xf78dbc37a67018db6f823ec5090d7eedd5bab6fd" },
-    { "address": "0x73d7b530d181ef957525c6fbe2ab8f28bf4f81cf" },
-    { "address": "0x66536a95cc83ee672da58b6d3e57f7582184d5df" },
-    { "address": "0xf4158e282F2317597E31c028978C7fb7275d6Fb4" },
-    { "address": "0x47340deb65810a1f0d0b1eae7489d1218c1c150f" },
-    { "address": "0xeb85a7b3fed933ec3b4599f1b4f8f3f838d0bedf" },
-    { "address": "0xEC0A0915A7c3443862B678B0d4721C7aB133FDCf" },
-    { "address": "0x32950db2a7164ae833121501c797d79e7b79d74c" },
-    { "address": "0x68b1134e6ee554d33fa027494fefe64915ff9ff5" },
-    { "address": "0x8c811e3c958e190f5ec15fb376533a3398620500" },
-    { "address": "0x1A2a1c938CE3eC39b6D47113c7955bAa9DD454F2" },
-    { "address": "0x94b3257107b6a85fb4d8759947825f8c992da0f9" },
-    { "address": "0xf5d669627376ebd411e34b98f19c868c8aba5ada" },
-    { "address": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25" },
-    { "address": "0x73b1714fb3bfaefa12f3707befcba3205f9a1162" },
-    { "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b" },
-    { "address": "0x01bf1d7c5e192313c26414e134584275f46271cf" },
-    { "address": "0xea1aa8035b766562e2bea7e63a4a1949f2bea31b" },
-    { "address": "0x93a0d0b23c3d045f395e26850c1b64df7f3ab783" },
-    { "address": "0x65919fb2fea8a131129badec56e126ecc1bea979" },
-    { "address": "0xf5997bea71e1b66434eff247b3c584508df69895" },
-    { "address": "0x213073989821f738a7ba3520c3d31a1f9ad31bbd" },
-    { "address": "0xa96660f0e4a3e9bc7388925d245a6d4d79e21259" },
-    { "address": "0xa99cacd1427f493a95b585a5c7989a08c86a616b" },
-    { "address": "0xe35d62ebe18413d96ca2a2f7cf215bb21a406b4b" },
-    { "address": "0x97a9107c1793bc407d6f527b77e7fff4d812bece" },
-    { "address": "0xa8754b9fa15fc18bb59458815510e40a12cd2014" },
-    { "address": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5" }
-  ]
+    "name": "axie",
+    "title": "Axie Infinity",
+    "tracked": true,
+    "colors": [
+        "007dc1",
+        false
+    ],
+    "dappReviewIds": [
+        517
+    ],
+    "stateOfTheDappsIds": [
+        "axie-infinity"
+    ],
+    "dappRadarIds": [
+        "/games/axie-infinity",
+        "/marketplaces/axie-marketplace"
+    ],
+    "etherscanIds": [
+        "axie-infinity"
+    ],
+    "contracts": [
+        {
+            "address": "0x2299a91cc0bffd8c7f71349da8ab03527b79724f"
+        },
+        {
+            "address": "0xf4985070ce32b6b1994329df787d1acc9a2dd9e2"
+        },
+        {
+            "address": "0x425372c0ac9D559a186A08A3854E0ddEA1a00d5C"
+        },
+        {
+            "address": "0xEBa02cfC36C01ACbE10F6bcb909B76749E54956a"
+        },
+        {
+            "address": "0xd7af30e9066Fd3B267Fe8b1c3e88192006d43486"
+        },
+        {
+            "address": "0x60ce035dc589c3fd185b224a7ca03c598948973b"
+        },
+        {
+            "address": "0xae8e74a21c25c22112749f7a9cd600d4b5cb2191"
+        },
+        {
+            "address": "0x37236CD05b34Cc79d3715AF2383E96dd7443dCF1"
+        },
+        {
+            "address": "0x92bF969865c80EDa082FD5D8b4E28da4d58e1C3a"
+        },
+        {
+            "address": "0x020f9e661e512132890d259dc363ed084cf4e5a6"
+        },
+        {
+            "address": "0x8138df138b415a6f85f09a0995fec0ce3b454b5d"
+        },
+        {
+            "address": "0x10e304a53351b272dc415ad049ad06565ebdfe34"
+        },
+        {
+            "address": "0x717ea56208b459ebeedb95c2cceee00b539c1205"
+        },
+        {
+            "address": "0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d"
+        },
+        {
+            "address": "0xd6115822be14782310b00557c52d28257a952be3"
+        },
+        {
+            "address": "0x3d5be9a472d6b5c8d45b4b3a3bffb80e0c52ef15"
+        },
+        {
+            "address": "0x436fB447a25D90965B6311e931682f7279D03226"
+        },
+        {
+            "address": "0x99ff9f4257D5b6aF1400C994174EbB56336BB79F"
+        },
+        {
+            "address": "0x7a11462A2adAed5571b91e34a127E4cbF51b152c"
+        },
+        {
+            "address": "0x0c7cF86188632e16AF00415214155950684466A8"
+        },
+        {
+            "address": "0x71FfC95Ca3BcEbF26024f689F40006182916167f"
+        },
+        {
+            "address": "0x9b1d9c45d9da03997d7850b4c90285c538d77233"
+        },
+        {
+            "address": "0x60dbf8e1cac4e8d318a2c655d3136f9343ee386a"
+        },
+        {
+            "address": "0x01AAc5236Ad205ebBe4F6819bC64eF5BeF40b71c"
+        },
+        {
+            "address": "0xb28a3dd24036151c819c6d401f7a222d9aa3671b"
+        },
+        {
+            "address": "0xf429b7270f7078d5561789c15d301692e32b1e48"
+        },
+        {
+            "address": "0xf78dbc37a67018db6f823ec5090d7eedd5bab6fd"
+        },
+        {
+            "address": "0x73d7b530d181ef957525c6fbe2ab8f28bf4f81cf"
+        },
+        {
+            "address": "0x66536a95cc83ee672da58b6d3e57f7582184d5df"
+        },
+        {
+            "address": "0xf4158e282F2317597E31c028978C7fb7275d6Fb4"
+        },
+        {
+            "address": "0x47340deb65810a1f0d0b1eae7489d1218c1c150f"
+        },
+        {
+            "address": "0xeb85a7b3fed933ec3b4599f1b4f8f3f838d0bedf"
+        },
+        {
+            "address": "0xEC0A0915A7c3443862B678B0d4721C7aB133FDCf"
+        },
+        {
+            "address": "0x32950db2a7164ae833121501c797d79e7b79d74c"
+        },
+        {
+            "address": "0x68b1134e6ee554d33fa027494fefe64915ff9ff5"
+        },
+        {
+            "address": "0x8c811e3c958e190f5ec15fb376533a3398620500"
+        },
+        {
+            "address": "0x1A2a1c938CE3eC39b6D47113c7955bAa9DD454F2"
+        },
+        {
+            "address": "0x94b3257107b6a85fb4d8759947825f8c992da0f9"
+        },
+        {
+            "address": "0xf5d669627376ebd411e34b98f19c868c8aba5ada"
+        },
+        {
+            "address": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25"
+        },
+        {
+            "address": "0x73b1714fb3bfaefa12f3707befcba3205f9a1162"
+        },
+        {
+            "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b"
+        },
+        {
+            "address": "0x01bf1d7c5e192313c26414e134584275f46271cf"
+        },
+        {
+            "address": "0xea1aa8035b766562e2bea7e63a4a1949f2bea31b"
+        },
+        {
+            "address": "0x93a0d0b23c3d045f395e26850c1b64df7f3ab783"
+        },
+        {
+            "address": "0x65919fb2fea8a131129badec56e126ecc1bea979"
+        },
+        {
+            "address": "0xf5997bea71e1b66434eff247b3c584508df69895"
+        },
+        {
+            "address": "0x213073989821f738a7ba3520c3d31a1f9ad31bbd"
+        },
+        {
+            "address": "0xa96660f0e4a3e9bc7388925d245a6d4d79e21259"
+        },
+        {
+            "address": "0xa99cacd1427f493a95b585a5c7989a08c86a616b"
+        },
+        {
+            "address": "0xe35d62ebe18413d96ca2a2f7cf215bb21a406b4b"
+        },
+        {
+            "address": "0x97a9107c1793bc407d6f527b77e7fff4d812bece"
+        },
+        {
+            "address": "0xa8754b9fa15fc18bb59458815510e40a12cd2014"
+        },
+        {
+            "address": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5"
+        },
+        {
+            "address": "0x997fc821368154f52469c794a66135e19e64589c"
+        },
+        {
+            "address": "0xab4e5b618fb8f1f3503689dfbdf801478ff6c252"
+        }
+    ]
 }
