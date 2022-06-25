@@ -1,0 +1,35 @@
+{
+    "name": "aave",
+    "title": "Aave",
+    "tracked": true,
+    "colors": [
+        "46a7bf",
+        "lighten"
+    ],
+    "etherscanIds": [
+        "aave"
+    ],
+    "contracts": [
+        {
+            "address": "0x70effc565db6eef7b927610155602d31b670e802"
+        },
+        {
+            "address": "0xf329e36c7bf6e5e86ce2150875a84ce77f477375"
+        },
+        {
+            "address": "0xb56c2f0b653b2e0b10c9b928c8580ac5df02c7c7"
+        },
+        {
+            "address": "0xa72636cbcaa8f5ff95b2cc47f3cdee83f3294a0b"
+        },
+        {
+            "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee"
+        },
+        {
+            "address": "0x6d80113e533a2c0fe82eabd35f1875dcea89ea97"
+        },
+        {
+            "address": "0x191c10aa4af7c30e871e70c95db0e4eb77237530"
+        }
+    ]
+}
