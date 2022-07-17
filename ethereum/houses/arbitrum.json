@@ -1,0 +1,37 @@
+{
+    "name": "arbitrum",
+    "title": "Arbitrum",
+    "tracked": true,
+    "type": "mall",
+    "priority": 10000000,
+    "colors": [
+        "1E7FC1",
+        false
+    ],
+    "etherscanIds": [
+        "arbitrum"
+    ],
+    "contracts": [
+        {
+            "address": "0x4dbd4fc535ac27206064b68ffcf827b0a60bab3f"
+        },
+        {
+            "address": "0x4c6f947ae67f572afa4ae0730947de7c874f95ef"
+        },
+        {
+            "address": "0x72ce9c846789fdb6fc1f34ac4ad25dd9ef7031ef"
+        },
+        {
+            "address": "0x760723cd2e632826c38fef8cd438a4cc7e7e1a40"
+        },
+        {
+            "address": "0x1fccbe3369eada96887a3b2857b57bba65e83dc1"
+        },
+        {
+            "address": "0xc12ba48c781f6e392b49db2e25cd0c28cd77531a"
+        },
+        {
+            "address": "0x011b6e24ffb0b5f5fcc564cf4183c5bbbc96d515"
+        }
+    ]
+}
