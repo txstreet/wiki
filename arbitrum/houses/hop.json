@@ -1,0 +1,35 @@
+{
+    "name": "hop",
+    "title": "Hop",
+    "tracked": true,
+    "colors": [
+        "FFFDFC",
+        "C753E0"
+    ],
+    "contracts": [
+        {
+            "address": "0x305933e09871d4043b5036e09af794facb3f6170"
+        },
+        {
+            "address": "0x710bda329b2a6224e4b44833de30f38e7f81d564"
+        },
+        {
+            "address": "0xa6a688f107851131f0e1dce493ebbebfaf99203e"
+        },
+        {
+            "address": "0x15ec4512516d980090050fe101de21832c8edfee"
+        },
+        {
+            "address": "0x0ce6c85cf43553de10fc56ceca0aef6ff0dd444d"
+        },
+        {
+            "address": "0x924ac9910c09a0215b06458653b30471a152022f"
+        },
+        {
+            "address": "0x12e59c59d282d2c00f3166915bed6dc2f5e2b5c7"
+        },
+        {
+            "address": "0xda7c0de432a9346bb6e96ac74e3b61a36d8a77eb"
+        }
+    ]
+}

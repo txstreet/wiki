@@ -1,0 +1,32 @@
+{
+    "name": "synapse",
+    "title": "Synapse Protocol",
+    "tracked": true,
+    "colors": [
+        "101827",
+        false
+    ],
+    "contracts": [
+        {
+            "address": "0x080f6aed32fc474dd5717105dba5ea57268f46eb"
+        },
+        {
+            "address": "0x2913e812cf0dcca30fb28e6cac3d2dcff4497688"
+        },
+        {
+            "address": "0x3ea9b0ab55f34fb188824ee288ceaefc63cf908e"
+        },
+        {
+            "address": "0x6f4e8eba4d337f874ab57478acc2cb5bacdc19c9"
+        },
+        {
+            "address": "0x73186f2cf2493f20836b17b21ae79fc12934e207"
+        },
+        {
+            "address": "0x37f9ae2e0ea6742b9cad5abcfb6bbc3475b3862b"
+        },
+        {
+            "address": "0xa67b7147dce20d6f25fd9abfbcb1c3ca74e11f0b"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "sushi",
+    "title": "Sushi",
+    "tracked": true,
+    "colors": [
+        "0d0e21",
+        false
+    ],
+    "etherscanIds": [
+        "sushiswap"
+    ],
+    "contracts": [
+        {
+            "address": "0x0c1cf6883efa1b496b01f654e247b9b419873054"
+        },
+        {
+            "address": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506"
+        }
+    ]
+}

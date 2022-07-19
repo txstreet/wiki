@@ -1,0 +1,140 @@
+{
+    "name": "dopex",
+    "title": "Dopex",
+    "tracked": true,
+    "colors": [
+        "000000",
+        false
+    ],
+    "contracts": [
+        {
+            "address": "0x6c2c06790b3e3e3c38e12ee22f8183b37a13ee55"
+        },
+        {
+            "address": "0x32eb7902d4134bf98a28b963d26de779af92a212"
+        },
+        {
+            "address": "0x0c1cf6883efa1b496b01f654e247b9b419873054"
+        },
+        {
+            "address": "0x7418f5a2621e13c05d1efbd71ec922070794b90a"
+        },
+        {
+            "address": "0x1f80c96ca521d7247a818a09b0b15c38e3e58a28"
+        },
+        {
+            "address": "0xeb0f03a203f25f08c7aff0e1b1c2e0ee25ca29eb"
+        },
+        {
+            "address": "0x80789d252a288e93b01d82373d767d71a75d9f16"
+        },
+        {
+            "address": "0xcbbfb7e0e6782df0d3e91f8d785a5bf9e8d9775f"
+        },
+        {
+            "address": "0x80789d252a288e93b01d82373d767d71a75d9f16"
+        },
+        {
+            "address": "0xcbbfb7e0e6782df0d3e91f8d785a5bf9e8d9775f"
+        },
+        {
+            "address": "0xdb62c01c23e247cea558e90814dbeb215b92c81f"
+        },
+        {
+            "address": "0x8d66b80e03fceff5d825b77433b62400c00db22d"
+        },
+        {
+            "address": "0x7af6399e4dd8c1d5b7c53dc2c6ad04b39049c83e"
+        },
+        {
+            "address": "0xeda8f8d555a89d1ce5c631027ab89fd761d614f7"
+        },
+        {
+            "address": "0x3f0a22f98df015fdd9b7eaad29531956632d775a"
+        },
+        {
+            "address": "0x459819c34266dd9154172d373ac559ce27f5f273"
+        },
+        {
+            "address": "0x4d7d6100122c92ddad3b57e472b00979e45a2326"
+        },
+        {
+            "address": "0x411982342c0d41cebb1706ed80ef32d48f3fef3b"
+        },
+        {
+            "address": "0xe1acc3254be1cced13c8760a34e6d672021d0e02"
+        },
+        {
+            "address": "0x7904ea09b0ce9a98af8f4a2ed2f060364fb65042"
+        },
+        {
+            "address": "0xb5acc94d901eab4206b49652bbf80e14ed8a79a0"
+        },
+        {
+            "address": "0x7e00ab584c3dcab784fe8a04c471088c34386415"
+        },
+        {
+            "address": "0x5be3c77ed3cd42fc2c702c9fcd665f515862b0ae"
+        },
+        {
+            "address": "0x3f3c58ccb0655fa9161d0b4b49b217b3f6478d5a"
+        },
+        {
+            "address": "0x2b99e3d67dad973c1b9747da742b7e26c8bdd67b"
+        },
+        {
+            "address": "0x8c73b6d3c81c6cc42e8285c8c147a7563d71add0"
+        },
+        {
+            "address": "0x252c07e0356d3b1a8ce273e39885b094053137b9"
+        },
+        {
+            "address": "0xc0cdd1176aa1624b89b7476142b41c04414afaa0"
+        },
+        {
+            "address": "0x6cb7d5bd21664e0201347bd93d66ce18bc48a807"
+        },
+        {
+            "address": "0x60e07b25ba79bf8d40831cdbda60cf49571c7ee0"
+        },
+        {
+            "address": "0xe5ed878571c8592d61d1485471794d3edb04e694"
+        },
+        {
+            "address": "0x2e466544ab40ad2a540874afe470f3f5acf0ab10"
+        },
+        {
+            "address": "0xdc05c718fa4b57c721ea126a68a979bebbb5483e"
+        },
+        {
+            "address": "0xce2033d5081b21fc4ba9c3b8b7a839bd352e7564"
+        },
+        {
+            "address": "0xc296c505207e34fe8afac9d0b1ced6ff17d0e89a"
+        },
+        {
+            "address": "0x444d91660642128a17dd574599981304f9c54dbd"
+        },
+        {
+            "address": "0x3757b49d79063e157dc376f2b409c3730fa17f61"
+        },
+        {
+            "address": "0x4ee9fe9500e7c4fe849add9b14beec5ec5b7d955"
+        },
+        {
+            "address": "0x9bade4013a7601aa1f3e9f1361a4ebe60d91b1b5"
+        },
+        {
+            "address": "0x818ced3d446292061913f1f74b2eaee6341a76ec"
+        },
+        {
+            "address": "0x6607c5e39a43cce1760288dc33f20ead51b14d7b"
+        },
+        {
+            "address": "0x0359b4dcd2412ff0dafa8b020bcb57aa8bd13a33"
+        },
+        {
+            "address": "0xfe351e85eb6b4292088dc28b66e9e92ab62fb663"
+        }
+    ]
+}

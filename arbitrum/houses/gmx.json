@@ -1,0 +1,50 @@
+{
+    "name": "gmx",
+    "title": "GMX",
+    "tracked": true,
+    "colors": [
+        "2582E8",
+        "lighten"
+    ],
+    "contracts": [
+        {
+            "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a"
+        },
+        {
+            "address": "0x489ee077994b6658eafa855c308275ead8097c4a"
+        },
+        {
+            "address": "0xabbc5f99639c9b6bcb58544ddf04efa6802f4064"
+        },
+        {
+            "address": "0x3d6ba331e3d9702c5e8a8d254e5d8a285f223aba"
+        },
+        {
+            "address": "0x87a4088bd721f83b6c2e5102e2fa47022cb1c831"
+        },
+        {
+            "address": "0x09f77e8a13de9a35a7231028187e9fd5db8a2acb"
+        },
+        {
+            "address": "0x22199a49a999c351ef7927602cfb187ec3cae489"
+        },
+        {
+            "address": "0xa27c20a7cf0e1c68c0460706bb674f98f362bc21"
+        },
+        {
+            "address": "0xd2d1162512f927a7e282ef43a362659e4f2a728f"
+        },
+        {
+            "address": "0x2f546ad4edd93b956c8999be404cdcafde3e89ae"
+        },
+        {
+            "address": "0x321f653eed006ad1c29d174e17d96351bde22649"
+        },
+        {
+            "address": "0xa906f338cb21815cbc4bc87ace9e68c87ef8d8f1"
+        },
+        {
+            "address": "0x80a9ae39310abf666a87c743d6ebbd0e8c42158e"
+        }
+    ]
+}

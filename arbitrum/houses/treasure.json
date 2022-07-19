@@ -1,0 +1,104 @@
+{
+    "name": "treasure",
+    "title": "Treasure DAO",
+    "tracked": true,
+    "colors": [
+        "FFF5DF",
+        "DC2625"
+    ],
+    "contracts": [
+        {
+            "address": "0x539bde0d7dbd336b79148aa742883198bbf60342"
+        },
+        {
+            "address": "0xa0a89db1c899c49f98e6326b764bafcf167fc2ce"
+        },
+        {
+            "address": "0xdb6ab450178babcf0e467c1f3b436050d907e233"
+        },
+        {
+            "address": "0x482729215aaf99b3199e41125865821ed5a4978a"
+        },
+        {
+            "address": "0x2e3b85f85628301a0bce300dee3a6b04195a15ee"
+        },
+        {
+            "address": "0x812cda2181ed7c45a35a691e0c85e231d218e273"
+        },
+        {
+            "address": "0xb40bc8bf5f4df00b0b32c56e8d3ecd802656cce4"
+        },
+        {
+            "address": "0xebba467ecb6b21239178033189ceae27ca12eadf"
+        },
+        {
+            "address": "0xf0a35ba261ece4fc12870e5b7b9e7790202ef9b5"
+        },
+        {
+            "address": "0x21e1969884d477afd2afd4ad668864a0eebd644c"
+        },
+        {
+            "address": "0x73eb8b2b235f7957f830ea66abe433d9eed9f0e3"
+        },
+        {
+            "address": "0xb7e50106a5bd3cf21af210a755f9c8740890a8c9"
+        },
+        {
+            "address": "0xac75a1a0c4933e6537eafb6af3d402f82a459389"
+        },
+        {
+            "address": "0x21e1969884d477afd2afd4ad668864a0eebd644c"
+        },
+        {
+            "address": "0xf0a35ba261ece4fc12870e5b7b9e7790202ef9b5"
+        },
+        {
+            "address": "0xfe8c1ac365ba6780aec5a985d989b327c27670a1"
+        },
+        {
+            "address": "0x658365026d06f00965b5bb570727100e821e6508"
+        },
+        {
+            "address": "0xe83c0200e93cb1496054e387bddae590c07f0194"
+        },
+        {
+            "address": "0x6325439389e0797ab35752b4f43a14c004f22a9c"
+        },
+        {
+            "address": "0xd666d1cc3102cd03e07794a61e5f4333b4239f53"
+        },
+        {
+            "address": "0xf6cc57c45ce730496b4d3df36b9a4e4c3a1b9754"
+        },
+        {
+            "address": "0x17dacad7975960833f374622fad08b90ed67d1b5"
+        },
+        {
+            "address": "0xae0d0c4cc3335fd49402781e406adf3f02d41bca"
+        },
+        {
+            "address": "0xb16966dad2b5a5282b99846b23dcdf8c47b6132c"
+        },
+        {
+            "address": "0xb986c968a8e64e29fb33c310a7b04ccb83bb7427"
+        },
+        {
+            "address": "0xd414aba77365a1cbc90d3ea8c0e33c1ab5346c9f"
+        },
+        {
+            "address": "0x602e50ed10a90d324b35930ec0f8e5d3b28cd509"
+        },
+        {
+            "address": "0x66299ecc614b7a1920922bba7527819c841174bd"
+        },
+        {
+            "address": "0x8957a18a77451d762de204b61ea4f858bb3bed4d"
+        },
+        {
+            "address": "0x3956c81a51feaed98d7a678d53f44b9166c8ed66"
+        },
+        {
+            "address": "0xdf19f1216aa406df8bc585246bee7d96933f285f"
+        }
+    ]
+}
