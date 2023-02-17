@@ -8,6 +8,7 @@
   "dappRadarIds": ["/exchanges/balancer"],
   "etherscanIds": ["balancer"],
   "contracts": [
+    { "address": "0xBA12222222228d8Ba445958a75a0704d566BF2C8" },
     { "address": "0x3E66B66Fd1d0b02fDa6C811Da9E0547970DB2f21" },
     { "address": "0x6317C5e82A06E1d8bf200d21F4510Ac2c038AC81" },
     { "address": "0x9424B1412450D0f8Fc2255FAf6046b98213B76Bd" },
